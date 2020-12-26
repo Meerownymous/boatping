@@ -28,5 +28,16 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Model\" />
+    <Folder Include="Boot24\Datum\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Boot24\Datum\B24Config.xml" />
+    <None Remove="Boot24\Datum\B24SearchResult.example.json" />
+    <None Remove="Boot24\Datum\B24SearchResult.example.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Boot24\Datum\config.xml" />
+    <EmbeddedResource Include="Boot24\Datum\search.example-page-1.json" />
+    <EmbeddedResource Include="Boot24\Datum\search.example-page-1.xml" />
   </ItemGroup>
 </Project>

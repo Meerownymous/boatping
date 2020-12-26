@@ -1,0 +1,1121 @@
+﻿<div class="main-content-norm">
+  <div>
+    <div class="sitenumber-navi">
+      <div class="sitenumber-navi-in">
+        <span>
+          <span class="sitenumber-navi-hide">
+            <span class="icon-pfeil-grey-l"></span>
+            <!--&nbsp;zurück-->
+          </span>
+        </span>
+        <span class="sitenumber">
+          <!--Seite:-->
+          <span class="seite selected">1</span>
+          <span data-url="https://www.boot24.com?page=2#" class="seite filter-navi" title="Seite 2">2</span>
+          <span class="pts">...</span>
+          <span data-url="https://www.boot24.com?page=1314#" class="seite filter-navi" title="Seite 1314">1314</span>
+          <span data-url="https://www.boot24.com?page=1315#" class="seite filter-navi" title="Seite 1315">1315</span>
+        </span>
+        <span>
+          <span data-url="https://www.boot24.com?page=2#" class="button right filter-navi" title="nächste">
+            <!-- nächste -->
+            <span class="icon-pfeil-grey-r"></span>
+          </span>
+        </span>
+      </div>
+      <div class="site-navi-btnbox">
+        <div class="site-navi-btnbox-in">
+          <div>
+            <div class="site-navi-noselect">
+              <div class="js_search-sortieren-toogle         search-sortieren-toogle">
+                <span class="icon-search-sortieren lazyfile"></span>
+                <span class="js_sortieren-aktuell">Standardsortierung</span>
+              </div>
+              <div class="js_search-sortieren search-sortieren">
+                <ul class="sub-sortieren">
+                  <li data-val="0">Standardsortierung</li>
+                  <li data-val="1">Günstige oben</li>
+                  <li data-val="2">Teure oben</li>
+                  <li data-val="6">Neustes Baujahr oben</li>
+                  <li data-val="7">
+                                        Ältestes Baujahr oben</li>
+                  <li data-val="8">Kürzeste Objekte
+                                        oben</li>
+                  <li data-val="9">Längste Objekte oben</li>
+                  <li data-val="10">Anzeigen von Privat oben</li>
+                  <li data-val="11">Anzeigen
+                                        von Händlern oben</li>
+                </ul>
+              </div>
+            </div>
+            <input class="s_target" type="hidden" value="" />
+          </div>
+          <!--<a class="stand_button" href="/suchen/.php?aktion=neu">{#neue_suche}</a>-->
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="searchresult-box clearfix" id="res">
+    <div style="position: relative;" class="sr-objektbox " id="reihe-490637">
+      <a class="sr-objektbox-in" href="/motorboot/motoryacht/sealine/490637/320-fly-mit-volvo-penta-motor.html" id="nr_490637" data-objekt-nr="490637" data-objekt-max-number="15">
+        <div class="sr-objektbox-img       sr-objektbox-in-slideshow ">
+          <div class="sr-topangebot">
+            <div>
+              <span class="icon-search-se-star"></span>
+              <span class="sr-topangebot-txt">Top-Angebot</span>
+            </div>
+            <span class="icon-search-se-end"></span>
+          </div>
+          <!--id="top_angebot"-->
+          <div class="sr-price">50.000 €</div>
+          <div class="swiper-container" id="swiper-0">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img class="lazy lazy_swiper" data-src-primary="https://img.boot24.com/th/obl/490/490637/motorboot-motoryacht-sealine-490637-320-fly-14-14-112714.jpg" alt="Sealine / 320 Fly" src="https://imgs.boot24.com/icon/transparent.png" data-nr="1" />
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490637/motorboot-motoryacht-sealine-490637-320-fly-1-1-112651.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="2" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490637/motorboot-motoryacht-sealine-490637-320-fly-2-2-112654.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="3" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490637/motorboot-motoryacht-sealine-490637-320-fly-3-3-112656.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="4" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490637/motorboot-motoryacht-sealine-490637-320-fly-4-4-112658.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="5" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490637/motorboot-motoryacht-sealine-490637-320-fly-5-5-112700.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="6" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490637/motorboot-motoryacht-sealine-490637-320-fly-6-6-112702.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="7" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490637/motorboot-motoryacht-sealine-490637-320-fly-7-7-112703.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="8" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490637/motorboot-motoryacht-sealine-490637-320-fly-8-8-112705.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="9" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490637/motorboot-motoryacht-sealine-490637-320-fly-9-9-112706.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="10" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490637/motorboot-motoryacht-sealine-490637-320-fly-10-10-112708.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="11" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490637/motorboot-motoryacht-sealine-490637-320-fly-11-11-112709.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="12" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490637/motorboot-motoryacht-sealine-490637-320-fly-12-12-112711.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="13" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490637/motorboot-motoryacht-sealine-490637-320-fly-13-13-112711.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="14" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy blur-last" data-src="https://img.boot24.com/th/obl/490/490637/motorboot-motoryacht-sealine-490637-320-fly-13-13-112711.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="15" />
+                <div class="swiper-lazy-preloader"></div>
+                <div class="sr-objektbox-img-mehr-last-picture">
+                  <div>
+                    <div>
+                      <span class="icon-sr-boot"></span>
+                      <br />
+                      <span class="more_text_2">Gefällt es Ihnen?</span>
+                      <br />
+                      <span class="more_text_1">Mehr erfahren</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-next swiper-button-white"></div>
+            <div class="swiper-button-prev swiper-button-white"></div>
+          </div>
+        </div>
+        <div class="sr-objektbox-details">
+          <div class="sr-objektbox-us">Sealine / 320 Fly</div>
+          <div class="details_left">
+            <span>Motoryacht</span>
+            <span>- Baujahr: 1992</span>
+            <span>- gepflegt</span>
+            <span>- Kroatien</span>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div style="position: relative;" class="sr-objektbox " id="reihe-490633">
+      <a class="sr-objektbox-in" href="/motorboot/motoryacht/holterman/490633/blauwe-hand-trawler-13-50-royal-class-mit-john-deere-motor.html" id="nr_490633" data-objekt-nr="490633" data-objekt-max-number="3">
+        <div class="sr-objektbox-img sr-objektbox-in-slideshow ">
+          <div class="sr-topangebot">
+            <div>
+              <span class="icon-search-se-star"></span>
+              <span class="sr-topangebot-txt">Top-Angebot</span>
+            </div>
+            <span class="icon-search-se-end"></span>
+          </div>
+          <!--id="top_angebot"-->
+          <div class="sr-price">265.000 €</div>
+          <div class="swiper-container" id="swiper-1">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img class="lazy lazy_swiper" data-src-primary="https://img.boot24.com/th/obl/490/490633/motorboot-motoryacht-holterman-490633-blauwe-hand-trawler-1-1-1-160523.jpg" alt="Holterman / Blauwe Hand Trawler 13.50 royal clas" src="https://imgs.boot24.com/icon/transparent.png" data-nr="1" />
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490633/motorboot-motoryacht-holterman-490633-blauwe-hand-trawler-1-2-2-160550.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="2" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy blur-last" data-src="https://img.boot24.com/th/obl/490/490633/motorboot-motoryacht-holterman-490633-blauwe-hand-trawler-1-2-2-160550.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="3" />
+                <div class="swiper-lazy-preloader"></div>
+                <div class="sr-objektbox-img-mehr-last-picture">
+                  <div>
+                    <div>
+                      <span class="icon-sr-boot"></span>
+                      <br />
+                      <span class="more_text_2">Gefällt es Ihnen?</span>
+                      <br />
+                      <span class="more_text_1">Mehr erfahren</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-next swiper-button-white"></div>
+            <div class="swiper-button-prev swiper-button-white"></div>
+          </div>
+        </div>
+        <div class="sr-objektbox-details">
+          <div class="sr-objektbox-us">Holterman / Blauwe Hand
+                                Trawler 13.50 royal clas</div>
+          <div class="details_left">
+            <span>Motoryacht</span>
+            <span>- Baujahr: 2001</span>
+            <span>- gepflegt</span>
+            <span>- Deutschland</span>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="werbung dclick loading">
+      <script type="text/javascript">
+
+ if (!window.banner) {
+ googletag.cmd.push(function() {
+ var
+                    map_res=googletag.sizeMapping().
+ addSize([970, 600], [[970, 90],[728, 90]]).
+ addSize([728, 547],
+                    [[728, 90],[620, 70]]).
+ addSize([620, 352], [[620, 70],[468, 60]]).
+ addSize([468, 352], [[468,
+                    60],[300, 250]]).
+ addSize([320, 240], [[300, 250],[320, 50]]).
+ addSize([234, 120], [234, 60]).
+
+                    addSize([0, 0], [0, 0]).
+ build();
+
+                    window.banner=googletag.defineSlot('/2301701/banner_suchergebnisse_horizontal_620x70', [[970, 90],
+                    [728, 90], [620, 70], [468, 60], [300, 250], [320, 50], [234, 60]], 'div-gpt-ad-1421311647225-0'
+                    ).
+ defineSizeMapping(map_res).
+ setCollapseEmptyDiv(true).
+ addService(googletag.pubads());
+
+                    googletag.pubads().setTargeting("typ", "");
+ googletag.pubads().setTargeting("kat", "");
+
+                    googletag.pubads().setTargeting("hs", "");
+ googletag.pubads().setTargeting("preis", "");
+
+                    googletag.pubads().enableSingleRequest();
+ googletag.pubads().disableInitialLoad();
+
+                    googletag.enableServices();
+ });
+ }
+
+ </script>
+      <!-- Banner Suchergebnisse 728x90 -->
+      <div id="div-gpt-ad-1421311647225-0">
+        <script type="text/javascript">
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1421311647225-0'); });
+        
+                </script>
+      </div>
+    </div>
+    <div style="position: relative;" class="sr-objektbox " id="reihe-475276">
+      <a class="sr-objektbox-in" href="/motorboot/motoryacht/custom/475276/lago-25-250-ps-christmas-special-mit-mercruiser-motor.html" id="nr_475276" data-objekt-nr="475276" data-objekt-max-number="12">
+        <div class="sr-objektbox-img sr-objektbox-in-slideshow ">
+          <div class="sr-topangebot">
+            <div>
+              <span class="icon-search-se-star"></span>
+              <span class="sr-topangebot-txt">Top-Angebot</span>
+            </div>
+            <span class="icon-search-se-end"></span>
+          </div>
+          <!--id="top_angebot"-->
+          <div class="sr-price">99.500 €</div>
+          <div class="swiper-container" id="swiper-2">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img class="lazy lazy_swiper" data-src-primary="https://img.boot24.com/th/obl/475/475276/motorboot-runabout-custom-475276-runabout-11-11-215842.jpg" alt="Custom / Lago 25-250 PS Christmas Special" src="https://imgs.boot24.com/icon/transparent.png" data-nr="1" />
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/475/475276/motorboot-runabout-lago-475276-runabout-14-13-221552.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="2" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/475/475276/motorboot-runabout-custom-475276-runabout-2-2-215623.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="3" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/475/475276/motorboot-runabout-custom-475276-runabout-3-3-215625.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="4" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/475/475276/motorboot-runabout-custom-475276-runabout-4-4-215642.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="5" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/475/475276/motorboot-runabout-custom-475276-runabout-5-5-215646.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="6" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/475/475276/motorboot-runabout-custom-475276-runabout-7-7-215650.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="7" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/475/475276/motorboot-runabout-custom-475276-runabout-8-8-215650.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="8" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/475/475276/motorboot-runabout-custom-475276-runabout-10-10-215739.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="9" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/475/475276/motorboot-runabout-lago-475276-runabout-13-12-221542.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="10" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/475/475276/motorboot-runabout-lago-475276-runabout-12-11-221535.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="11" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy blur-last" data-src="https://img.boot24.com/th/obl/475/475276/motorboot-runabout-lago-475276-runabout-12-11-221535.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="12" />
+                <div class="swiper-lazy-preloader"></div>
+                <div class="sr-objektbox-img-mehr-last-picture">
+                  <div>
+                    <div>
+                      <span class="icon-sr-boot"></span>
+                      <br />
+                      <span class="more_text_2">Gefällt es Ihnen?</span>
+                      <br />
+                      <span class="more_text_1">Mehr erfahren</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-next swiper-button-white"></div>
+            <div class="swiper-button-prev swiper-button-white"></div>
+          </div>
+        </div>
+        <div class="sr-objektbox-details">
+          <div class="sr-objektbox-us">Custom / Lago 25-250 PS
+                            Christmas Special</div>
+          <div class="details_left">
+            <span>Motoryacht</span>
+            <span>- Baujahr: 2021</span>
+            <span>- neu</span>
+            <span>- Deutschland</span>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div style="position: relative;" class="sr-objektbox " id="reihe-457513">
+      <a class="sr-objektbox-in" href="/segelboot/segelyacht/asmus/457513/hanseat-kommendore-mit-yanmar-motor.html" id="nr_457513" data-objekt-nr="457513" data-objekt-max-number="10">
+        <div class="sr-objektbox-img      sr-objektbox-in-slideshow ">
+          <div class="sr-topangebot">
+            <div>
+              <span class="icon-search-se-star"></span>
+              <span class="sr-topangebot-txt">Top-Angebot</span>
+            </div>
+            <span class="icon-search-se-end"></span>
+          </div>
+          <!--id="top_angebot"-->
+          <div class="sr-price">65.000 €</div>
+          <div class="swiper-container" id="swiper-3">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img class="lazy lazy_swiper" data-src-primary="https://img.boot24.com/th/obl/457/457513/segelboot-segelyacht-asmus-457513-hanseat-kommendore-3-3-102140.jpg" alt="Asmus (DE) / Hanseat Kommendore" src="https://imgs.boot24.com/icon/transparent.png" data-nr="1" />
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/457/457513/segelboot-segelyacht-unbekannt-457513-hanseat-kommendore.ht-2-2-103911.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="2" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/457/457513/segelboot-segelyacht-asmus-457513-hanseat-kommendore-4-4-102225.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="3" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/457/457513/segelboot-segelyacht-asmus-457513-hanseat-kommendore-6-6-114737.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="4" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/457/457513/segelboot-segelyacht-asmus-457513-hanseat-kommendore-7-7-115912.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="5" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/457/457513/segelboot-segelyacht-asmus-457513-hanseat-kommendore-8-8-115916.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="6" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/457/457513/segelboot-segelyacht-asmus-457513-hanseat-kommendore-9-9-115954.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="7" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/457/457513/segelboot-segelyacht-asmus-457513-hanseat-kommendore-10-10-115957.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="8" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/457/457513/segelboot-segelyacht-asmus-457513-hanseat-kommendore-11-11-120027.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="9" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy blur-last" data-src="https://img.boot24.com/th/obl/457/457513/segelboot-segelyacht-asmus-457513-hanseat-kommendore-11-11-120027.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="10" />
+                <div class="swiper-lazy-preloader"></div>
+                <div class="sr-objektbox-img-mehr-last-picture">
+                  <div>
+                    <div>
+                      <span class="icon-sr-boot"></span>
+                      <br />
+                      <span class="more_text_2">Gefällt es Ihnen?</span>
+                      <br />
+                      <span class="more_text_1">Mehr erfahren</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-next swiper-button-white"></div>
+            <div class="swiper-button-prev swiper-button-white"></div>
+          </div>
+        </div>
+        <div class="sr-objektbox-details">
+          <div class="sr-objektbox-us">Asmus (DE) / Hanseat Kommendore
+                        </div>
+          <div class="details_left">
+            <span>Segelyacht</span>
+            <span>- Baujahr: 1980</span>
+            <span>- gepflegt</span>
+            <span>- Griechenland</span>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div style="position: relative;" class="sr-objektbox " id="reihe-437485">
+      <a class="sr-objektbox-in" href="/segelboot/segelyacht/hollaendischer-werftbau/437485/ocean-22-mit-honda-motor.html" id="nr_437485" data-objekt-nr="437485" data-objekt-max-number="11">
+        <div class="sr-objektbox-img sr-objektbox-in-slideshow ">
+          <div class="sr-topangebot">
+            <div>
+              <span class="icon-search-se-star"></span>
+              <span class="sr-topangebot-txt">Top-Angebot</span>
+            </div>
+            <span class="icon-search-se-end"></span>
+          </div>
+          <!--id="top_angebot"-->
+          <div class="sr-price">7.000 €</div>
+          <div class="swiper-container" id="swiper-4">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img class="lazy lazy_swiper" data-src-primary="https://img.boot24.com/th/obl/437/437485/segelboot-segelyacht-unbekannt-437485-ocean-22-1-1-191302.jpg" alt="Holländischer Werftbau / Ocean 22" src="https://imgs.boot24.com/icon/transparent.png" data-nr="1" />
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/437/437485/segelboot-segelyacht-unbekannt-437485-ocean-22-2-2-193630.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="2" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/437/437485/segelboot-segelyacht-unbekannt-437485-ocean-22-3-3-193637.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="3" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/437/437485/segelboot-segelyacht-unbekannt-437485-ocean-22-4-4-193642.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="4" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/437/437485/segelboot-segelyacht-unbekannt-437485-ocean-22-5-5-193651.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="5" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/437/437485/segelboot-segelyacht-unbekannt-437485-ocean-22-6-6-193653.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="6" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/437/437485/segelboot-segelyacht-unbekannt-437485-ocean-22-7-7-193700.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="7" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/437/437485/segelboot-segelyacht-hollaendischer-werftbau-437485-ocean-2-8-8-150042.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="8" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/437/437485/segelboot-segelyacht-hollaendischer-werftbau-437485-ocean-2-9-9-150050.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="9" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/437/437485/segelboot-segelyacht-hollaendischer-werftbau-437485-ocean-2-10-10-150051.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="10" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy blur-last" data-src="https://img.boot24.com/th/obl/437/437485/segelboot-segelyacht-hollaendischer-werftbau-437485-ocean-2-10-10-150051.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="11" />
+                <div class="swiper-lazy-preloader"></div>
+                <div class="sr-objektbox-img-mehr-last-picture">
+                  <div>
+                    <div>
+                      <span class="icon-sr-boot"></span>
+                      <br />
+                      <span class="more_text_2">Gefällt es Ihnen?</span>
+                      <br />
+                      <span class="more_text_1">Mehr erfahren</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-next swiper-button-white"></div>
+            <div class="swiper-button-prev swiper-button-white"></div>
+          </div>
+        </div>
+        <div class="sr-objektbox-details">
+          <div class="sr-objektbox-us">Holländischer Werftbau /
+                            Ocean 22</div>
+          <div class="details_left">
+            <span>Segelyacht</span>
+            <span>- Baujahr: 1997</span>
+            <span>- gepflegt</span>
+            <span>- Österreich</span>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div style="position: relative;" class="sr-objektbox " id="reihe-484519">
+      <a class="sr-objektbox-in" href="/segelboot/katamaran/eigenbau/484519/hochseekatamaran-mit-perkins-m30-motor.html" id="nr_484519" data-objekt-nr="484519" data-objekt-max-number="16">
+        <div class="sr-objektbox-img sr-objektbox-in-slideshow ">
+          <div class="sr-topangebot">
+            <div>
+              <span class="icon-search-se-star"></span>
+              <span class="sr-topangebot-txt">Top-Angebot</span>
+            </div>
+            <span class="icon-search-se-end"></span>
+          </div>
+          <!--id="top_angebot"-->
+          <div class="sr-price">125.000 €</div>
+          <div class="swiper-container" id="swiper-5">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img class="lazy lazy_swiper" data-src-primary="https://img.boot24.com/th/obl/484/484519/segelboot-katamaran-eigenbau-484519-hochseekatamaran-1-1-185221.jpg" alt="Eigenbau / Hochseekatamaran" src="https://imgs.boot24.com/icon/transparent.png" data-nr="1" />
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/484/484519/segelboot-katamaran-eigenbau-484519-hochseekatamaran-2-2-190012.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="2" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/484/484519/segelboot-katamaran-eigenbau-484519-hochseekatamaran-3-3-190014.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="3" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/484/484519/segelboot-katamaran-eigenbau-484519-hochseekatamaran-4-4-190015.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="4" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/484/484519/segelboot-katamaran-eigenbau-484519-hochseekatamaran-5-5-190016.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="5" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/484/484519/segelboot-katamaran-eigenbau-484519-hochseekatamaran-6-6-190040.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="6" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/484/484519/segelboot-katamaran-eigenbau-484519-hochseekatamaran-7-7-190055.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="7" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/484/484519/segelboot-katamaran-eigenbau-484519-hochseekatamaran-8-8-190104.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="8" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/484/484519/segelboot-katamaran-eigenbau-484519-hochseekatamaran-9-9-190117.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="9" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/484/484519/segelboot-katamaran-eigenbau-484519-hochseekatamaran-10-10-190136.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="10" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/484/484519/segelboot-katamaran-eigenbau-484519-hochseekatamaran-11-11-190218.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="11" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/484/484519/segelboot-katamaran-eigenbau-484519-hochseekatamaran-12-12-190233.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="12" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/484/484519/segelboot-katamaran-eigenbau-484519-hochseekatamaran-13-13-190238.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="13" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/484/484519/segelboot-katamaran-eigenbau-484519-hochseekatamaran-14-14-190241.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="14" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/484/484519/segelboot-katamaran-eigenbau-484519-hochseekatamaran-15-15-190242.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="15" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy blur-last" data-src="https://img.boot24.com/th/obl/484/484519/segelboot-katamaran-eigenbau-484519-hochseekatamaran-15-15-190242.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="16" />
+                <div class="swiper-lazy-preloader"></div>
+                <div class="sr-objektbox-img-mehr-last-picture">
+                  <div>
+                    <div>
+                      <span class="icon-sr-boot"></span>
+                      <br />
+                      <span class="more_text_2">Gefällt es Ihnen?</span>
+                      <br />
+                      <span class="more_text_1">Mehr erfahren</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-next swiper-button-white"></div>
+            <div class="swiper-button-prev swiper-button-white"></div>
+          </div>
+        </div>
+        <div class="sr-objektbox-details">
+          <div class="sr-objektbox-us">Eigenbau / Hochseekatamaran
+                        </div>
+          <div class="details_left">
+            <span>Katamaran</span>
+            <span>- Baujahr: 1983</span>
+            <span>- gepflegt</span>
+            <span>- Griechenland</span>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div style="position: relative;" class="sr-objektbox " id="reihe-490634">
+      <a class="sr-objektbox-in" href="/segelboot/segelyacht/sunbeam-yachts/490634/25-mit-volvo-penta-motor.html" id="nr_490634" data-objekt-nr="490634" data-objekt-max-number="8">
+        <div class="sr-objektbox-img      sr-objektbox-in-slideshow ">
+          <div class="sr-topangebot">
+            <div>
+              <span class="icon-search-se-star"></span>
+              <span class="sr-topangebot-txt">Top-Angebot</span>
+            </div>
+            <span class="icon-search-se-end"></span>
+          </div>
+          <!--id="top_angebot"-->
+          <div class="sr-price">18.500 €</div>
+          <div class="swiper-container" id="swiper-6">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img class="lazy lazy_swiper" data-src-primary="https://img.boot24.com/th/obl/490/490634/segelboot-segelyacht-sunbeam-yachts-490634-25-1-1-224202.jpg" alt="Sunbeam Yachts / 25" src="https://imgs.boot24.com/icon/transparent.png" data-nr="1" />
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490634/segelboot-segelyacht-sunbeam-yachts-490634-25-2-2-224242.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="2" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490634/segelboot-segelyacht-sunbeam-yachts-490634-25-3-3-224312.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="3" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490634/segelboot-segelyacht-sunbeam-yachts-490634-25-4-4-224337.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="4" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490634/segelboot-segelyacht-sunbeam-yachts-490634-25-5-5-224401.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="5" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490634/segelboot-segelyacht-sunbeam-yachts-490634-25-6-6-224427.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="6" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490634/segelboot-segelyacht-sunbeam-yachts-490634-25-7-7-224453.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="7" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy blur-last" data-src="https://img.boot24.com/th/obl/490/490634/segelboot-segelyacht-sunbeam-yachts-490634-25-7-7-224453.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="8" />
+                <div class="swiper-lazy-preloader"></div>
+                <div class="sr-objektbox-img-mehr-last-picture">
+                  <div>
+                    <div>
+                      <span class="icon-sr-boot"></span>
+                      <br />
+                      <span class="more_text_2">Gefällt es Ihnen?</span>
+                      <br />
+                      <span class="more_text_1">Mehr erfahren</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-next swiper-button-white"></div>
+            <div class="swiper-button-prev swiper-button-white"></div>
+          </div>
+        </div>
+        <div class="sr-objektbox-details">
+          <div class="sr-objektbox-us">Sunbeam Yachts / 25</div>
+          <div class="details_left">
+            <span>Segelyacht</span>
+            <span>- Baujahr: 1982</span>
+            <span>- gepflegt</span>
+            <span>- Deutschland</span>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div style="position: relative;" class="sr-objektbox " id="reihe-490630">
+      <a class="sr-objektbox-in" href="/segelboot/segelyacht/jeanneau/490630/sun-odyssey-50-ds-mit-yanmar-motor.html" id="nr_490630" data-objekt-nr="490630" data-objekt-max-number="4">
+        <div class="sr-objektbox-img      sr-objektbox-in-slideshow ">
+          <div class="sr-topangebot">
+            <div>
+              <span class="icon-search-se-star"></span>
+              <span class="sr-topangebot-txt">Top-Angebot</span>
+            </div>
+            <span class="icon-search-se-end"></span>
+          </div>
+          <!--id="top_angebot"-->
+          <div class="sr-price">187.000 €</div>
+          <div class="swiper-container" id="swiper-7">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img class="lazy lazy_swiper" data-src-primary="https://img.boot24.com/th/obl/490/490630/segelboot-segelyacht-jeanneau-490630-sun-odyssey-50-ds-1-1-161430.jpg" alt="Jeanneau / Sun Odyssey 50 DS" src="https://imgs.boot24.com/icon/transparent.png" data-nr="1" />
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490630/segelboot-segelyacht-jeanneau-490630-sun-odyssey-50-ds-2-2-163206.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="2" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490630/segelboot-segelyacht-jeanneau-490630-sun-odyssey-50-ds-3-3-163333.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="3" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy blur-last" data-src="https://img.boot24.com/th/obl/490/490630/segelboot-segelyacht-jeanneau-490630-sun-odyssey-50-ds-3-3-163333.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="4" />
+                <div class="swiper-lazy-preloader"></div>
+                <div class="sr-objektbox-img-mehr-last-picture">
+                  <div>
+                    <div>
+                      <span class="icon-sr-boot"></span>
+                      <br />
+                      <span class="more_text_2">Gefällt es Ihnen?</span>
+                      <br />
+                      <span class="more_text_1">Mehr erfahren</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-next swiper-button-white"></div>
+            <div class="swiper-button-prev swiper-button-white"></div>
+          </div>
+        </div>
+        <div class="sr-objektbox-details">
+          <div class="sr-objektbox-us">Jeanneau / Sun Odyssey 50 DS
+                        </div>
+          <div class="details_left">
+            <span>Segelyacht</span>
+            <span>- Baujahr: 2009</span>
+            <span>- gepflegt</span>
+            <span>- Kroatien</span>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div style="position: relative;" class="sr-objektbox " id="reihe-490632">
+      <a class="sr-objektbox-in" href="/motorboot/motoryacht/bayliner/490632/3055-mit-mercruiser-motor.html" id="nr_490632" data-objekt-nr="490632" data-objekt-max-number="45">
+        <div class="sr-objektbox-img      sr-objektbox-in-slideshow ">
+          <div class="sr-topangebot">
+            <div>
+              <span class="icon-search-se-star"></span>
+              <span class="sr-topangebot-txt">Top-Angebot</span>
+            </div>
+            <span class="icon-search-se-end"></span>
+          </div>
+          <!--id="top_angebot"-->
+          <div class="sr-price">50.000 €</div>
+          <div class="swiper-container" id="swiper-8">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img class="lazy lazy_swiper" data-src-primary="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-36-36-132644.jpg" alt="Bayliner / 3055" src="https://imgs.boot24.com/icon/transparent.png" data-nr="1" />
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-1-1-132305.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="2" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-2-2-132309.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="3" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-3-3-132310.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="4" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-4-4-132311.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="5" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-5-5-132312.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="6" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-6-6-132312.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="7" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-7-7-132312.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="8" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-8-8-132313.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="9" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-9-9-132313.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="10" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-10-10-132315.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="11" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-11-11-132458.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="12" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-12-12-132501.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="13" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-13-13-132505.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="14" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-14-14-132512.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="15" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-15-15-132514.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="16" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-16-16-132515.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="17" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-17-17-132520.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="18" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-18-18-132525.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="19" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-19-19-132529.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="20" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-20-20-132534.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="21" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-21-21-132538.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="22" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-22-22-132544.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="23" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-23-23-132550.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="24" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-24-24-132553.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="25" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-25-25-132559.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="26" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-26-26-132603.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="27" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-27-27-132606.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="28" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-28-28-132609.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="29" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-29-29-132615.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="30" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-30-30-132617.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="31" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-31-31-132622.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="32" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-32-32-132626.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="33" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-33-33-132628.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="34" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-34-34-132639.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="35" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-35-35-132641.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="36" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-37-37-132649.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="37" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-38-38-132654.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="38" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-39-39-132655.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="39" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-40-40-132700.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="40" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-41-41-132704.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="41" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-42-42-132707.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="42" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-43-43-132709.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="43" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-44-44-132929.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="44" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy blur-last" data-src="https://img.boot24.com/th/obl/490/490632/motorboot-motoryacht-bayliner-490632-3055-44-44-132929.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="45" />
+                <div class="swiper-lazy-preloader"></div>
+                <div class="sr-objektbox-img-mehr-last-picture">
+                  <div>
+                    <div>
+                      <span class="icon-sr-boot"></span>
+                      <br />
+                      <span class="more_text_2">Gefällt es Ihnen?</span>
+                      <br />
+                      <span class="more_text_1">Mehr erfahren</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-next swiper-button-white"></div>
+            <div class="swiper-button-prev swiper-button-white"></div>
+          </div>
+        </div>
+        <div class="sr-objektbox-details">
+          <div class="sr-objektbox-us">Bayliner / 3055</div>
+          <div class="details_left">
+            <span>Motoryacht</span>
+            <span>- Baujahr: 1996</span>
+            <span>- gepflegt</span>
+            <span>- Deutschland</span>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div style="position: relative;" class="sr-objektbox " id="reihe-489202">
+      <a class="sr-objektbox-in" href="/motorboot/motorboot/jeanneau/489202/merry-fisher-895-mit-yamaha-motor.html" id="nr_489202" data-objekt-nr="489202" data-objekt-max-number="11">
+        <div class="sr-objektbox-img      sr-objektbox-in-slideshow ">
+          <div class="sr-topangebot">
+            <div>
+              <span class="icon-search-se-star"></span>
+              <span class="sr-topangebot-txt">Top-Angebot</span>
+            </div>
+            <span class="icon-search-se-end"></span>
+          </div>
+          <!--id="top_angebot"-->
+          <div class="sr-price">130.000 €</div>
+          <div class="swiper-container" id="swiper-9">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img class="lazy lazy_swiper" data-src-primary="https://img.boot24.com/th/obl/489/489202/motorboot-motorboot-jeanneau-489202-merry-fisher-895-10-10-092135.jpg" alt="Jeanneau / Merry Fisher 895" src="https://imgs.boot24.com/icon/transparent.png" data-nr="1" />
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/489/489202/motorboot-motorboot-jeanneau-489202-merry-fisher-895-1-1-092041.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="2" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/489/489202/motorboot-motorboot-jeanneau-489202-merry-fisher-895-2-2-092123.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="3" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/489/489202/motorboot-motorboot-jeanneau-489202-merry-fisher-895-3-3-092125.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="4" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/489/489202/motorboot-motorboot-jeanneau-489202-merry-fisher-895-4-4-092126.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="5" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/489/489202/motorboot-motorboot-jeanneau-489202-merry-fisher-895-5-5-092128.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="6" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/489/489202/motorboot-motorboot-jeanneau-489202-merry-fisher-895-6-6-092129.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="7" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/489/489202/motorboot-motorboot-jeanneau-489202-merry-fisher-895-7-7-092131.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="8" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/489/489202/motorboot-motorboot-jeanneau-489202-merry-fisher-895-8-8-092132.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="9" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy" data-src="https://img.boot24.com/th/obl/489/489202/motorboot-motorboot-jeanneau-489202-merry-fisher-895-9-9-092134.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="10" />
+                <div class="swiper-lazy-preloader"></div>
+              </div>
+              <div class="swiper-slide">
+                <img class="swiper-lazy blur-last" data-src="https://img.boot24.com/th/obl/489/489202/motorboot-motorboot-jeanneau-489202-merry-fisher-895-9-9-092134.jpg" alt="" src="https://imgs.boot24.com/icon/transparent.png" data-nr="11" />
+                <div class="swiper-lazy-preloader"></div>
+                <div class="sr-objektbox-img-mehr-last-picture">
+                  <div>
+                    <div>
+                      <span class="icon-sr-boot"></span>
+                      <br />
+                      <span class="more_text_2">Gefällt es Ihnen?</span>
+                      <br />
+                      <span class="more_text_1">Mehr erfahren</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-next swiper-button-white"></div>
+            <div class="swiper-button-prev swiper-button-white"></div>
+          </div>
+        </div>
+        <div class="sr-objektbox-details">
+          <div class="sr-objektbox-us">Jeanneau / Merry Fisher 895
+                        </div>
+          <div class="details_left">
+            <span>Motorboot</span>
+            <span>- Baujahr: 2020</span>
+            <span>- neuwertig</span>
+            <span>- Deutschland</span>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="sitenumber-navi-bottom">
+    <div class="sitenumber-navi">
+      <div class="sitenumber-navi-in">
+        <span>
+          <span class="sitenumber-navi-hide">
+            <span class="icon-pfeil-grey-l"></span>
+            <!--&nbsp;zurück-->
+          </span>
+        </span>
+        <span class="sitenumber">
+          <!--Seite:-->
+          <span class="seite selected">1</span>
+          <span data-url="https://www.boot24.com?page=2#" class="seite filter-navi" title="Seite 2">2</span>
+          <span class="pts">...</span>
+          <span data-url="https://www.boot24.com?page=1314#" class="seite filter-navi" title="Seite 1314">1314</span>
+          <span data-url="https://www.boot24.com?page=1315#" class="seite filter-navi" title="Seite 1315">1315</span>
+        </span>
+        <span>
+          <span data-url="https://www.boot24.com?page=2#" class="button right filter-navi" title="nächste">
+            <!-- nächste -->
+            <span class="icon-pfeil-grey-r"></span>
+          </span>
+        </span>
+      </div>
+      <div class="site-navi-btnbox">
+        <div class="site-navi-btnbox-in">
+          <div>
+            <div class="site-navi-noselect">
+              <div class="js_search-sortieren-toogle         search-sortieren-toogle">
+                <span class="icon-search-sortieren lazyfile"></span>
+                <span class="js_sortieren-aktuell">Standardsortierung</span>
+              </div>
+              <div class="js_search-sortieren search-sortieren">
+                <ul class="sub-sortieren">
+                  <li data-val="0">Standardsortierung</li>
+                  <li data-val="1">Günstige oben</li>
+                  <li data-val="2">Teure oben</li>
+                  <li data-val="6">Neustes Baujahr oben</li>
+                  <li data-val="7">
+                                        Ältestes Baujahr oben</li>
+                  <li data-val="8">Kürzeste Objekte
+                                        oben</li>
+                  <li data-val="9">Längste Objekte oben</li>
+                  <li data-val="10">Anzeigen von Privat oben</li>
+                  <li data-val="11">Anzeigen
+                                        von Händlern oben</li>
+                </ul>
+              </div>
+            </div>
+            <input class="s_target" type="hidden" value="" />
+          </div>
+          <!--<a class="stand_button" href="/suchen/.php?aktion=neu">{#neue_suche}</a>-->
+        </div>
+      </div>
+    </div>
+  </div>
+</div><?xml version="1.0" encoding="UTF-8" ?>
