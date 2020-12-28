@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Yaapii.Atoms.Map;
 
-namespace BoatPing.Core.Model
+namespace BoatPing.Core
 {
     /// <summary>
     /// A fake ad.
