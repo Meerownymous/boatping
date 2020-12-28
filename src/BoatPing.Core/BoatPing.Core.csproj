@@ -31,12 +31,15 @@
     <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="87.0.4280.8800" />
     <PackageReference Include="Selenium.WebDriver.NetCoreWebDriverFactory" Version="3.0.0" />
     <PackageReference Include="BriX" Version="1.0.0" />
+    <PackageReference Include="Xive" Version="5.0.0" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Model\" />
     <Folder Include="Boot24\Datum\" />
     <Folder Include="Page\" />
     <Folder Include="Boot24\Test\" />
+    <Folder Include="LogBook\" />
+    <Folder Include="LogBook\Test\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Boot24\Datum\B24Config.xml" />
