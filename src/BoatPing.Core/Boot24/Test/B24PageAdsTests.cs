@@ -10,14 +10,7 @@ namespace BoatPing.Core.Boot24
         [Fact]
         public void ListsAds()
         {
-            using (var page =
-                new PgOpen(
-                    new B24DefaultSearch()
-                )
-            )
-            {
-                Assert.NotEmpty(new B24PageAds(page));
-            }
+            Assert.NotEmpty(new B24PageAds(new Uri(new B24DefaultSearch().AsString())));
         }
     }
 }

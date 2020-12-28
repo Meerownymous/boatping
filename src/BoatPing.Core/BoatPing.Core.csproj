@@ -36,6 +36,7 @@
     <Folder Include="Model\" />
     <Folder Include="Boot24\Datum\" />
     <Folder Include="Page\" />
+    <Folder Include="Boot24\Test\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Boot24\Datum\B24Config.xml" />

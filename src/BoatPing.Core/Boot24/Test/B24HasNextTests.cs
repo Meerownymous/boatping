@@ -11,9 +11,7 @@ namespace BoatPing.Core.Boot24
         {
             using (var page = new ChromeDriver())
             {
-                page.Navigate().GoToUrl("https://www.boot24.com/segelboot/#pab=35000&pbis=58000&jahrvon=1970&lmin=10&lmax=13&land=c0");
-
-                Assert.True(new B24HasNext(page));
+                Assert.True(new B24HasNext(new B24Page(new B24DefaultSearch(), page)));
             }
         }
 

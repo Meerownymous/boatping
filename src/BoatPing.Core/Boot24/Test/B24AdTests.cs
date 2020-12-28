@@ -11,13 +11,12 @@ namespace BoatPing.Core.Boot24
     {
         [Fact]
         public void BuildsID()
-        {        
-            using (var search = new B24Page(new B24DefaultSearch()))
+        {
             using (var ad =
                 new B24Ad(
                     new FirstOf<string>(
                         new B24PageAds(
-                            search
+                            new Uri(new B24DefaultSearch().AsString())
                         )
                     ).Value(),
                     DateTime.Now
@@ -32,15 +31,12 @@ namespace BoatPing.Core.Boot24
         public void MovesForward()
         {
             var found = new List<string>();
-            using (var search = new B24Page(new B24DefaultSearch()))
+            foreach (var url in new B24PageAds(new Uri(new B24DefaultSearch().AsString())))
             {
-                foreach (var url in new B24PageAds(search))
+                using (var ad = new B24Ad(url, DateTime.Now))
                 {
-                    using (var ad = new B24Ad(url, DateTime.Now))
-                    {
-                        found.Add($"{ad.Title()}:{ad.Price()}€:{ad.ID()}");
-                    };
-                }
+                    found.Add($"{ad.Title()}:{ad.Price()}€:{ad.ID()}");
+                };
             }
 
             Assert.Equal(
@@ -53,12 +49,11 @@ namespace BoatPing.Core.Boot24
         [Fact]
         public void ExtractsPrice()
         {
-            using (var search = new B24Page(new B24DefaultSearch()))
             using (var ad =
                 new B24Ad(
                     new FirstOf<string>(
                         new B24PageAds(
-                            search
+                            new Uri(new B24DefaultSearch().AsString())
                         )
                     ).Value(),
                     DateTime.Now
