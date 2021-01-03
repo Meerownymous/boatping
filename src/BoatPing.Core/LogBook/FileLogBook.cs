@@ -14,7 +14,7 @@ namespace BoatPing.Core.LogBook
         /// <summary>
         /// A logbook that exists in ram.
         /// </summary>
-        public FileLogBook(string path) : base(() => new XiveLogBook(new FileHive(path, "root")))
+        public FileLogBook(string path) : base(() => new XiveLogBook(new FileHive(path, "logbook")))
         { }
     }
 }

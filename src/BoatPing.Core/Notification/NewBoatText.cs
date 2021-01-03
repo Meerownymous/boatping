@@ -14,7 +14,7 @@ namespace BoatPing.Core.Notification
         /// </summary>
         public NewBoatText(IAd ad) : base(() =>
             {
-                var emoji = "⛵️👀";
+                var emoji = "🚨⛵️👀";
                 var content =
                     new FallbackMap(
                         ad.Content(),
@@ -23,9 +23,9 @@ namespace BoatPing.Core.Notification
                 var text =
                     new Paragraph(
                         $"{emoji} {content["title"]}",
-                        $"{ad.Price()}€",
-                        $"{ad.Source()}",
-                        $"{ad.Url()}"
+                        $"💶{ad.Price()}€",
+                        $"🗺{content["country"]}",
+                        $"🔗{ad.Url()}"
                     ).AsString();
 
                 return text;

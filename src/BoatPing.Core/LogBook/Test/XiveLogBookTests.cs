@@ -17,7 +17,7 @@ namespace BoatPing.Core.LogBook.Test
             book.Record(ad);
 
             Assert.True(
-                new RecordsEqual(
+                new AdsEqual(
                     ad,
                     new FirstOf<IAd>(
                         book.RecordsOf(ad)
@@ -59,11 +59,12 @@ namespace BoatPing.Core.LogBook.Test
         public void KnowsItsRecordsIfEqual()
         {
             var ad = new SimpleAd("1", "xunit", "xunit://1.html", 100.0, new MapOf("some", "thing"));
+            var adChanged = new SimpleAd("1", "xunit", "xunit://1377.html", 50, new MapOf("another", "thing"));
             var book = new XiveLogBook(new RamHive("root"));
             book.Record(ad);
 
             Assert.True(
-                book.Contains(ad)
+                book.Contains(adChanged)
             );
         }
 
@@ -71,12 +72,37 @@ namespace BoatPing.Core.LogBook.Test
         public void KnowsItsRecordsIfUnequal()
         {
             var ad = new SimpleAd("1", "xunit", "xunit://1.html", 100.0, new MapOf("some", "thing"));
+            var otherAd = new SimpleAd("2", "xunit", "xunit://1.html", 50, new MapOf("some", "thing"));
+            var book = new XiveLogBook(new RamHive("root"));
+            book.Record(ad);
+
+            Assert.False(
+                book.Contains(otherAd)
+            );
+        }
+
+        [Fact]
+        public void KnowsItsExactRecordsIfEqual()
+        {
+            var ad = new SimpleAd("1", "xunit", "xunit://1.html", 100.0, new MapOf("some", "thing"));
+            var book = new XiveLogBook(new RamHive("root"));
+            book.Record(ad);
+
+            Assert.True(
+                book.ContainsVersion(ad)
+            );
+        }
+
+        [Fact]
+        public void KnowsItsExactRecordsIfUnequal()
+        {
+            var ad = new SimpleAd("1", "xunit", "xunit://1.html", 100.0, new MapOf("some", "thing"));
             var adChanged = new SimpleAd("1", "xunit", "xunit://1.html", 50, new MapOf("some", "thing"));
             var book = new XiveLogBook(new RamHive("root"));
             book.Record(ad);
 
             Assert.False(
-                book.Contains(adChanged)
+                book.ContainsVersion(adChanged)
             );
         }
 

@@ -30,7 +30,7 @@ namespace BoatPing.Core.LogBook
             if (records.Count > 0)
             {
                 var last = new LastOf<IAd>(records).Value();
-                if(!new RecordsEqual(last, ad))
+                if(!new AdsEqual(last, ad))
                 {
                     createNew = true;
                 }
@@ -77,10 +77,15 @@ namespace BoatPing.Core.LogBook
 
         public bool Contains(IAd ad)
         {
+            return new XiveRecords(ad, this.xive).Count > 0;
+        }
+
+        public bool ContainsVersion(IAd ad)
+        {
             var result = false;
             foreach(var record in new XiveRecords(ad, this.xive))
             {
-                if(new RecordsEqual(record, ad))
+                if(new AdsEqual(record, ad))
                 {
                     result = true;
                     break;

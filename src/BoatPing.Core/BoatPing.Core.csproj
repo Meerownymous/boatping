@@ -32,26 +32,36 @@
     <PackageReference Include="Selenium.WebDriver.NetCoreWebDriverFactory" Version="3.0.0" />
     <PackageReference Include="BriX" Version="1.0.0" />
     <PackageReference Include="Xive" Version="5.0.0" />
+    <PackageReference Include="Telegram.Bot" Version="15.7.1" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Model\" />
-    <Folder Include="Boot24\Datum\" />
-    <Folder Include="Page\" />
-    <Folder Include="Boot24\Test\" />
     <Folder Include="LogBook\" />
     <Folder Include="LogBook\Test\" />
+    <Folder Include="Ad\" />
+    <Folder Include="Notification\" />
+    <Folder Include="Ad\Selenium\" />
+    <Folder Include="Ad\Telegram\" />
+    <Folder Include="Notification\File\" />
+    <Folder Include="Notification\Telegram\" />
+    <Folder Include="Ad\Boat24\" />
+    <Folder Include="Ad\Boat24\Test\" />
+    <Folder Include="Ad\Scanboat\" />
+    <Folder Include="Ad\Scanboat\Test\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Boot24\Datum\B24Config.xml" />
     <None Remove="Boot24\Datum\B24SearchResult.example.json" />
     <None Remove="Boot24\Datum\B24SearchResult.example.xml" />
-    <None Remove="Boot24\Datum\javascript.example.html" />
+    <None Remove="Ads\Boot24\Datum\config.xml" />
+    <None Remove="Ads\Boot24\Datum\javascript.example.html" />
+    <None Remove="Ads\Boot24\Datum\search.example-page-1.json" />
+    <None Remove="Ads\Boot24\Datum\search.example-page-1.xml" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Boot24\Datum\config.xml" />
-    <EmbeddedResource Include="Boot24\Datum\search.example-page-1.json" />
-    <EmbeddedResource Include="Boot24\Datum\search.example-page-1.xml" />
-    <EmbeddedResource Include="Boot24\Datum\javascript.example.html" />
+    <EmbeddedResource Include="Ad\Boot24\Datum\config.xml" />
+    <EmbeddedResource Include="Ad\Boot24\Datum\javascript.example.html" />
+    <EmbeddedResource Include="Ad\Boot24\Datum\search.example-page-1.json" />
+    <EmbeddedResource Include="Ad\Boot24\Datum\search.example-page-1.xml" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System.Windows.Forms" />

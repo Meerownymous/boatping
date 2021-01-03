@@ -25,6 +25,11 @@ namespace BoatPing.Core.LogBook
             return this.book.Value().Contains(ad);
         }
 
+        public bool ContainsVersion(IAd ad)
+        {
+            return this.book.Value().ContainsVersion(ad);
+        }
+
         public void Record(IAd ad)
         {
             this.book.Value().Record(ad);

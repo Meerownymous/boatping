@@ -6,12 +6,12 @@ namespace BoatPing.Core.LogBook
     /// <summary>
     /// Checks if two ads are identical besides their record date (which only log records have)
     /// </summary>
-    public sealed class RecordsEqual : AssumptionEnvelope
+    public sealed class AdsEqual : AssumptionEnvelope
     {
         /// <summary>
         /// Checks if two ads are identical besides their record date (which only log records have)
         /// </summary>
-        public RecordsEqual(IAd left, IAd right) : base(() =>
+        public AdsEqual(IAd left, IAd right) : base(() =>
         {
             var contentEqual = true;
             var leftContent = left.Content();

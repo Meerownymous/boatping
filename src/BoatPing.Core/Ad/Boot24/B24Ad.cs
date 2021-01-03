@@ -19,26 +19,36 @@ namespace BoatPing.Core.Ad.Boot24
         public B24Ad(IWebElement adBox)
         {
             this.attributes =
-                new MapOf(
-                    new KvpOf("source", "boot24.de"),
-                    new KvpOf("url", adBox.GetAttribute("href")),
-                    new KvpOf("timestamp", DateTime.Now.ToString("M.d.yyyy h:mm:ss tt")),
-                    new KvpFallback("id", () => $"boot24-{adBox.GetAttribute("data-objekt-nr")}", "error"),
-                    new KvpFallback("country", () =>
-                        {
+                new MapOf(() =>
+                {
+                    var map =
+                        new MapOf(
+                            new KvpOf("source", "boot24.de"),
+                            new KvpOf("url", adBox.GetAttribute("href")),
+                            new KvpOf("timestamp", DateTime.Now.ToString("M.d.yyyy h:mm:ss tt")),
+                            new KvpFallback("id", () => $"boot24-{adBox.GetAttribute("data-objekt-nr")}", "error"),
+                            new KvpFallback("country", () =>
+                                {
 
-                            return
-                                new LastOf<IWebElement>(
-                                    adBox.FindElements(By.ClassName("details_left"))
-                                )
-                                .Value()
-                                .Text;
-                        },
-                        "error"
-                    ),
-                    new KvpFallback("title", () => adBox.FindElement(By.ClassName("sr-objektbox-us")).Text, "error"),
-                    new KvpFallback("price", () => adBox.FindElement(By.ClassName("sr-price")).Text.Replace(".", "").Replace("€", "").TrimEnd(), "0")
-                );
+                                    return
+                                        new LastOf<IWebElement>(
+                                            adBox.FindElements(By.ClassName("details_left"))
+                                        )
+                                        .Value()
+                                        .Text;
+                                },
+                                "error"
+                            ),
+                            new KvpFallback("title", () => adBox.FindElement(By.ClassName("sr-objektbox-us")).Text, "error"),
+                            new KvpFallback("price", () => adBox.FindElement(By.ClassName("sr-price")).Text.Replace(".", "").Replace("€", "").TrimEnd(), "0")
+                        );
+
+                    foreach (var key in map.Keys)
+                    {
+                        map[key].ToString();
+                    }
+                    return map;
+                });
         }
 
         public IDictionary<string, string> Content()
