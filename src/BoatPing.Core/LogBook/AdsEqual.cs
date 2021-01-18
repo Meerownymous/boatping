@@ -20,7 +20,10 @@ namespace BoatPing.Core.LogBook
             {
                 if (key != "timestamp")
                 {
-                    if (rightContent[key] != leftContent[key])
+                    if(leftContent.ContainsKey(key)
+                        && rightContent.ContainsKey(key)
+                        && rightContent[key] != leftContent[key]
+                    )
                     {
                         contentEqual = false;
                     }
@@ -32,7 +35,8 @@ namespace BoatPing.Core.LogBook
                 && left.Price() == right.Price()
                 && left.Source() == right.Source()
                 && left.Url() == right.Url()
-                && contentEqual;
+                && contentEqual
+                ;
         })
         { }
     }
