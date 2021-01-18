@@ -21,7 +21,7 @@ namespace BoatPing.Core.Notification.Telegram
 
             botClient.SendTextMessageAsync(
                 new global::Telegram.Bot.Types.ChatId(-414451065),
-                new NewBoatText(notification.Ad()).AsString()
+                notification.Content()
             );
         }
     }

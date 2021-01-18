@@ -32,7 +32,7 @@ namespace BoatPing.Core
 
         private string Text(INotification notification)
         {
-            return new NewBoatText(notification.Ad()).AsString();
+            return notification.Content();
         }
 
         private string Filename(INotification notification)

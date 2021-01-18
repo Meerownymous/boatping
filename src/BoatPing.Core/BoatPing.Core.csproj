@@ -40,13 +40,14 @@
     <Folder Include="Ad\" />
     <Folder Include="Notification\" />
     <Folder Include="Ad\Selenium\" />
-    <Folder Include="Ad\Telegram\" />
     <Folder Include="Notification\File\" />
     <Folder Include="Notification\Telegram\" />
     <Folder Include="Ad\Boat24\" />
     <Folder Include="Ad\Boat24\Test\" />
     <Folder Include="Ad\Scanboat\" />
     <Folder Include="Ad\Scanboat\Test\" />
+    <Folder Include="Ad\BandOfBoats\" />
+    <Folder Include="Ad\BandOfBoats\Test\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Boot24\Datum\B24Config.xml" />

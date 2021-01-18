@@ -13,7 +13,7 @@ namespace BoatPing.Core.Notification
         /// Relative path at which a file notification is stored.
         /// </summary>
         public NotificationFilename(INotification notification) : base(() =>
-            $"{DateTime.Now.ToString("yyyymmdd_hhMMss")}_{string.Join("_", notification.Title().Split(Path.GetInvalidFileNameChars()))}.txt",
+            $"{DateTime.Now.ToString("yyyyMMdd_HHmmss")}_{string.Join("_", notification.Title().Split(Path.GetInvalidFileNameChars()))}.txt",
             false
         )
         { }

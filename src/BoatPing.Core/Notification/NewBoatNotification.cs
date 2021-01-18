@@ -32,5 +32,10 @@ namespace BoatPing.Core.Notification
         {
             return new FallbackMap(ad.Content(), notFound => ad.ID())["title"];
         }
+
+        public string Content()
+        {
+            return new NewBoatText(this.ad).AsString();
+        }
     }
 }

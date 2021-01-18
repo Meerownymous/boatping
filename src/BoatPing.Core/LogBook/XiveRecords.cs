@@ -23,22 +23,22 @@ namespace BoatPing.Core.LogBook
                     result =
                         new ListOf<IAd>(
                             new Yaapii.Atoms.Enumerable.Mapped<IXML, IAd>(record =>
-                            {
-                                var content = new Dictionary<string, string>();
-                                foreach (var param in record.Nodes("./content/param"))
                                 {
-                                    content[new XMLString(param, "./name/text()").Value()] = new XMLString(param, "./value/text()").Value();
-                                }
-                                return
-                                    new SimpleAd(
-                                        new XMLString(record, "./id/text()").Value(),
-                                        new XMLString(record, "./source/text()").Value(),
-                                        new XMLString(record, "./url/text()").Value(),
-                                        new XMLNumber(record, "./price/text()").AsDouble(),
-                                        content
-                                    );
+                                    var content = new Dictionary<string, string>();
+                                    foreach (var param in record.Nodes("./content/param"))
+                                    {
+                                        content[new XMLString(param, "./name/text()").Value()] = new XMLString(param, "./value/text()").Value();
+                                    }
+                                    return
+                                        new SimpleAd(
+                                            new XMLString(record, "./id/text()").Value(),
+                                            new XMLString(record, "./source/text()").Value(),
+                                            new XMLString(record, "./url/text()").Value(),
+                                            new XMLNumber(record, "./price/text()").AsDouble(),
+                                            content
+                                        );
 
-                            },
+                                },
                                 records.Nodes("/records/record")
                             )
                         );
