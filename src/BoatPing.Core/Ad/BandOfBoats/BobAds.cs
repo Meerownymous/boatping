@@ -22,8 +22,6 @@ namespace BoatPing.Core.Ad.BandOfBoats
         /// All ads in a bandofboats.com search.
         /// </summary>
         public BobAds(IText search) : base(() =>
-        {
-            using (var driver = new ChromeDriver())
             {
                 var result = new List<IAd>();
                 result.AddRange(
@@ -35,9 +33,8 @@ namespace BoatPing.Core.Ad.BandOfBoats
                     )
                 );
                 return result;
-            }
 
-        },
+            },
             false
         )
         { }

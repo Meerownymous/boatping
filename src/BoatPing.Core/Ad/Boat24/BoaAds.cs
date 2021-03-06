@@ -22,8 +22,6 @@ namespace BoatPing.Core.Ad.Boat24
         /// All ads in a boat24.de search.
         /// </summary>
         public BoaAds(IText search) : base(() =>
-        {
-            using (var driver = new ChromeDriver())
             {
                 var result = new List<IAd>();
                 result.AddRange(
@@ -35,9 +33,7 @@ namespace BoatPing.Core.Ad.Boat24
                     )
                 );
                 return result;
-            }
-
-        },
+            },
             false
         )
         { }

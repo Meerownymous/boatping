@@ -27,7 +27,7 @@ namespace BoatPing.Core.LogBook
                                     var content = new Dictionary<string, string>();
                                     foreach (var param in record.Nodes("./content/param"))
                                     {
-                                        content[new XMLString(param, "./name/text()").Value()] = new XMLString(param, "./value/text()").Value();
+                                        content[new XMLString(param, "./name/text()").Value()] = new XMLString(param, "./value/text()", "").Value();
                                     }
                                     return
                                         new SimpleAd(

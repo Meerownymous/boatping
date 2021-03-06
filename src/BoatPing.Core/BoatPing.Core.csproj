@@ -33,6 +33,7 @@
     <PackageReference Include="BriX" Version="1.0.0" />
     <PackageReference Include="Xive" Version="5.0.0" />
     <PackageReference Include="Telegram.Bot" Version="15.7.1" />
+    <PackageReference Include="Selenium.WebDriver.Extensions" Version="3.3.0" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="LogBook\" />

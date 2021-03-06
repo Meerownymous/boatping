@@ -65,7 +65,7 @@ namespace BoatPing.Core.Ad.Scanboat
                                     .Replace(",", "")
                                     .Replace("-", "")
                                     .TrimEnd(),
-                                    "0"
+                                "0"
                             )
                         );
 

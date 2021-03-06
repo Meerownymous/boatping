@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using BoatPing.Core.Ad.Selenium;
 using OpenQA.Selenium;
 using Yaapii.Atoms.Enumerable;
 
@@ -15,7 +16,7 @@ namespace BoatPing.Core.Ad.BandOfBoats
         /// </summary>
         public BobPageAds(Uri searchPage) : base(() =>
         {
-            using (var page = new BobPage(searchPage.AbsoluteUri))
+            using (var page = new BobPage(searchPage.AbsoluteUri, new ChromeHeadless()))
             {
                 IList<IAd> result = new List<IAd>();
                 foreach (var adBox in page.FindElements(By.ClassName("bs-card")))

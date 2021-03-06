@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using BoatPing.Core.Ad.Boot24;
+using BoatPing.Core.Ad.Selenium;
 using BoatPing.Core.Model;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
@@ -19,7 +20,7 @@ namespace BoatPing.Core.Boot24
         /// </summary>
         public B24PageAds(Uri searchPage) : base(() =>
             {
-                using (var page = new B24Page(searchPage.AbsoluteUri))
+                using (var page = new B24Page(searchPage.AbsoluteUri, new ChromeHeadless()))
                 {
                     IList<IAd> result = new List<IAd>();
                     foreach(var adBox in page.FindElements(By.ClassName("sr-objektbox-in")))

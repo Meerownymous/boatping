@@ -25,22 +25,18 @@ namespace BoatPing.Core.Ad.Scanboat
         /// </summary>
         public ScbAds(IText search, int minPrice, int maxPrice) : base(() =>
             {
-                using (var driver = new ChromeDriver())
-                {
-                    var result = new List<IAd>();
-                    result.AddRange(
-                        new PriceFiltered(minPrice, maxPrice,
-                            new Joined<IAd>(
-                                new Mapped<Uri, IEnumerable<IAd>>(
-                                    searchPage => new ScbPageAds(searchPage),
-                                    new ScbPages(search)
-                                )
+                var result = new List<IAd>();
+                result.AddRange(
+                    new PriceFiltered(minPrice, maxPrice,
+                        new Joined<IAd>(
+                            new Mapped<Uri, IEnumerable<IAd>>(
+                                searchPage => new ScbPageAds(searchPage),
+                                new ScbPages(search)
                             )
                         )
-                    );
-                    return result;
-                }
-
+                    )
+                );
+                return result;
             },
             false
         )

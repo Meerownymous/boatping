@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using BoatPing.Core.Ad.Selenium;
 using OpenQA.Selenium;
 using Yaapii.Atoms;
 using Yaapii.Atoms.Enumerable;
@@ -29,7 +30,7 @@ namespace BoatPing.Core.Ad.BandOfBoats
         public BobPages(Func<string> startUrl) : base(() =>
         {
             var url = startUrl();
-            using (var page = new BobPage(startUrl))
+            using (var page = new BobPage(startUrl, new ChromeHeadless()))
             {
                 IList<Uri> result = new List<Uri>();
 

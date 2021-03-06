@@ -45,8 +45,16 @@ namespace BoatPing.Core.Ad.Scanboat
         /// An opened, stable scanboat.com page.
         /// </summary>
         public ScbPage(Func<string> url, IWebDriver origin) : base(() =>
-            new PgOpen(url(), origin, new TimeSpan(0,0,3))
-        )
+        {
+            var page = new PgOpen(url(), origin, new TimeSpan(0, 0, 3));
+
+            //Close ad
+            if (page.FindElements(By.Id("modalPopupAdClose")).Count > 0)
+            {
+                page.FindElement(By.Id("modalPopupAdClose")).Click();
+            }
+            return page;
+        })
         { }
     }
 }
