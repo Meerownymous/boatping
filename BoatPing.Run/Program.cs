@@ -1,19 +1,14 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
-using System.Runtime.InteropServices;
 using System.Threading;
 using BoatPing.Core;
-using BoatPing.Core.Ad.BandOfBoats;
-using BoatPing.Core.Ad.Boat24;
 using BoatPing.Core.Ad.Scanboat;
-using BoatPing.Core.Boot24;
 using BoatPing.Core.LogBook;
 using BoatPing.Core.Notification;
+using BoatPing.Core.Notification.Telegram;
 using Yaapii.Atoms.Enumerable;
-using Yaapii.Atoms.List;
 using Yaapii.Atoms.Map;
 
 namespace BoatPing.Run
@@ -22,11 +17,16 @@ namespace BoatPing.Run
     {
         static void Main(string[] args)
         {
-
             var path = Environment.CurrentDirectory;
-            var logbook = new BoatPing.Core.LogBook.FileLogBook(Path.Combine(path, "memory"));
-            var fileNotifications = new Core.FileNotifications(Path.Combine(path, "memory"));
-            var telegramNotifications = new Core.Notification.Telegram.TgmNotifications();
+            var logbook = new FileLogBook(Path.Combine(path, "memory"));
+            var fileNotifications = new FileNotifications(Path.Combine(path, "memory"));
+            var telegramNotifications =
+                new TgmNotifications(
+                    new CfgBot(
+                        new Uri(Path.Combine(path, "bot.cfg")),
+                        error => LogError(error)
+                    )
+                );
 
             while (true)
             {
@@ -73,34 +73,23 @@ namespace BoatPing.Run
                                 }
                                 catch (Exception ex)
                                 {
-                                    File.AppendAllLines(
-                                        Path.Combine(path, "memory", "error.log"),
-                                        new ManyOf(
-                                            $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} error scraping {ad.Url().ToString()}",
-                                            ex.ToString()
-                                        )
+                                    LogError(
+                                        $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} error scraping {ad.Url()}",
+                                        ex.ToString()
                                     );
                                 }
                             }
                         }
                         catch(Exception ex)
                         {
-                            File.AppendAllLines(
-                                Path.Combine(path, "memory", "error.log"),
-                                new ManyOf(
-                                    $"error while scraping {source.Key}",
-                                    ex.ToString()
-                                )
+                            LogError(
+                                $"error while scraping {source.Key} {source.Value}",
+                                ex.ToString()
                             );
                         }
                     }
                     stopwatch.Stop();
-                    File.AppendAllLines(
-                        Path.Combine(path, "memory", "scrapes.log"),
-                        new ManyOf(
-                            $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} Scraped {ads} ads. Found {newBoats} new boats and {priceChanges} price changes in {stopwatch.Elapsed.TotalSeconds}s"
-                        )
-                    );
+                    LogError($"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} Scraped {ads} ads. Found {newBoats} new boats and {priceChanges} price changes in {stopwatch.Elapsed.TotalSeconds}s");
 
                 }
                 catch (Exception ex)
@@ -108,7 +97,7 @@ namespace BoatPing.Run
                     File.AppendAllLines(
                         Path.Combine(path, "memory", "error.log"),
                         new ManyOf(
-                            "error while scraping",
+                            "Error while going through searches:",
                             ex.ToString()
                         )
                     );
@@ -152,6 +141,14 @@ namespace BoatPing.Run
         {
             var change = System.Math.Abs(leftAd.Price() - rightAd.Price());
             return change / leftAd.Price() * 100 > minPercentage;
+        }
+
+        private static void LogError(string path, params string[] messages)
+        {
+            File.AppendAllLines(
+                Path.Combine(path, "error.log"),
+                new ManyOf(messages)
+            );
         }
     }
 }

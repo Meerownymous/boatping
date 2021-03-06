@@ -49,6 +49,8 @@
     <Folder Include="Ad\Scanboat\Test\" />
     <Folder Include="Ad\BandOfBoats\" />
     <Folder Include="Ad\BandOfBoats\Test\" />
+    <Folder Include="Cfg\" />
+    <Folder Include="Cfg\Test\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Boot24\Datum\B24Config.xml" />
