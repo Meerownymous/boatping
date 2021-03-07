@@ -127,9 +127,18 @@ namespace BoatPing.Run
 
                     );
                 }
-                System.Threading.Thread.Sleep(
-                    new CfgInterval(cfgBot, error => LogError(path, error)).Value()
-                );
+
+                var waitTime = new CfgInterval(cfgBot, error => LogError(path, error)).Value();
+                if (waitTime.TotalSeconds == 0)
+                {
+                    break;
+                }
+                else
+                {
+                    System.Threading.Thread.Sleep(
+                        new CfgInterval(cfgBot, error => LogError(path, error)).Value()
+                    );
+                }
             }
         }
 
