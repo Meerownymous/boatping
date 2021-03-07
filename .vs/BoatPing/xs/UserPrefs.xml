@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{ADF3EBC5-A389-4A03-9316-0147A0B61134}|Default">
   <MonoDevelop.Ide.ItemProperties.BoatPing.Run PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/BoatPing.Core/Notification/Telegram/TgmNotifications.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="src/BoatPing.Core/Notification/NewBoatNotification.cs" Line="1" Column="1" />
       <File FileName="src/BoatPing.Core/Notification/HelloWorldNotification.cs" Line="38" Column="153" />
-      <File FileName="src/BoatPing.Core/Notification/Telegram/TgmNotifications.cs" Line="65" Column="2" />
+      <File FileName="src/BoatPing.Core/Notification/Telegram/TgmNotifications.cs" Line="44" Column="18" />
       <File FileName="src/BoatPing.Run/Program.cs" Line="124" Column="18" />
     </Files>
     <Pads>
