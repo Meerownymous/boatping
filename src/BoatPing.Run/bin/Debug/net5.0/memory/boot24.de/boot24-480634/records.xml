@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-480634</id>
+    <url>https://www.boot24.com/segelboot/kielboot/bavaria/480634/34-mit-volvo-motor.html</url>
+    <price>42000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/kielboot/bavaria/480634/34-mit-volvo-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.20.2021 8:47:20 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-480634</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Kielboot · Baujahr: 2000 · neuwertig · Frankreich</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Bavaria / 34</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>42000</value>
+      </param>
+    </content>
+  </record>
+</records>

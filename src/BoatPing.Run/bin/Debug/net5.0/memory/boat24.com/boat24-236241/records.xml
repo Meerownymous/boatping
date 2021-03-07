@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boat24-236241</id>
+    <url>https://www.boat24.com/en/sailboats/bavaria/bavaria-31--ohne-liegeplatz/detail/236241/</url>
+    <price>29900</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/bavaria/bavaria-31--ohne-liegeplatz/detail/236241/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.19.2021 3:39:56 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-236241</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Germany » Kressbronn - Gohren</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Bavaria 31 - ohne Liegeplatz</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 29900</value>
+      </param>
+    </content>
+  </record>
+</records>

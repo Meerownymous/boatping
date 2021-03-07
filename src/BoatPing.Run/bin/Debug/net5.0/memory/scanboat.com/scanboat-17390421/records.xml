@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>scanboat-17390421</id>
+    <url>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-bavaria-33-cruiser-17390421</url>
+    <price>57430</price>
+    <source>scanboat.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>scanboat.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-bavaria-33-cruiser-17390421</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>3.3.2021 9:07:05 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>scanboat-17390421</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Country : Denmark</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Bavaria 33 Cruiser</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>57430</value>
+      </param>
+    </content>
+  </record>
+</records>

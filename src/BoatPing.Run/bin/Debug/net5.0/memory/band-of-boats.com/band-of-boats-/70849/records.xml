@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/70849</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/70849</url>
+    <price>35000</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/70849</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.17.2021 8:58:27 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/70849</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Fos-sur-Mer, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>X-ONE TON</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>35000 </value>
+      </param>
+    </content>
+  </record>
+</records>

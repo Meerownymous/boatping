@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/96424</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/96424</url>
+    <price>59900</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/96424</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>3.1.2021 10:06:14 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/96424</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>MARSEILLE, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>BAVARIA 36</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>59900 </value>
+      </param>
+    </content>
+  </record>
+</records>

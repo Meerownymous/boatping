@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-445714</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/lm-boats/445714/mermaid-81-mit-bukh-dv20-motor.html</url>
+    <price>18500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/lm-boats/445714/mermaid-81-mit-bukh-dv20-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:51:49 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-445714</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1982 · gepflegt · Deutschland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>LM Boats (DK) / Mermaid 81</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>18500</value>
+      </param>
+    </content>
+  </record>
+</records>

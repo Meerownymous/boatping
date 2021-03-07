@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/95064</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/95064</url>
+    <price>45000</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/95064</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.28.2021 3:01:45 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/95064</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Brussels, Belgique</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>BAVARIA 34</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>45000 </value>
+      </param>
+    </content>
+  </record>
+</records>

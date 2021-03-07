@@ -1,0 +1,122 @@
+<records>
+  <record>
+    <id>boot24-425817</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/lemsteraak/425817/blom-mit-peugeot-xdp4-88-4-cilinder-motor.html</url>
+    <price>55000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/lemsteraak/425817/blom-mit-peugeot-xdp4-88-4-cilinder-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.30.2020 10:54:11 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-425817</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Lemsteraak (NL) - Blom</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>55000</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>Lemsteraak</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>Blom</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Warns</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>10.00 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>3.80 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>0.80 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>Stahl</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>1976</value>
+      </param>
+      <param>
+        <name>Motoren Modell</name>
+        <value>Peugeot XDP4.88, 4 cilinder</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>4</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boot24-425817</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/lemsteraak/425817/blom-mit-peugeot-xdp4-88-4-cilinder-motor.html</url>
+    <price>55000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/lemsteraak/425817/blom-mit-peugeot-xdp4-88-4-cilinder-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.16.2021 10:42:28 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-425817</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1976 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Lemsteraak (NL) / Blom</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>55000</value>
+      </param>
+    </content>
+  </record>
+</records>

@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boat24-459687</id>
+    <url>https://www.boat24.com/en/sailboats/najad/najad-34-ak-refit/detail/459687/</url>
+    <price>43995</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/najad/najad-34-ak-refit/detail/459687/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.1.2021 6:26:18 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-459687</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Germany » Elbe » Stade</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Najad 34 AK Refit</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 43995</value>
+      </param>
+    </content>
+  </record>
+</records>

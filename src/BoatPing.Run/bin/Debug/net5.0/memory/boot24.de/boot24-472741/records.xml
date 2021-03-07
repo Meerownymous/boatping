@@ -1,0 +1,150 @@
+<records>
+  <record>
+    <id>boot24-472741</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/ferrykotter/472741/10-5.html</url>
+    <price>49990</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/ferrykotter/472741/10-5.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.29.2020 9:05:40 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-472741</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Ferrykotter - 10.5</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>49990</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>Ferrykotter</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>10.5</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Berlin</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>10.50 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>3.50 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>1.10 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>Stahl</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>1985</value>
+      </param>
+      <param>
+        <name>Betriebsstunden</name>
+        <value>3000 h</value>
+      </param>
+      <param>
+        <name>Gewicht</name>
+        <value>10.00 kg</value>
+      </param>
+      <param>
+        <name>Brennstofftank</name>
+        <value>500.00 l</value>
+      </param>
+      <param>
+        <name>Motoren Anzahl</name>
+        <value>1</value>
+      </param>
+      <param>
+        <name>Antrieb</name>
+        <value>Diesel</value>
+      </param>
+      <param>
+        <name>ges. Leistung</name>
+        <value>73 kW (100 PS)</value>
+      </param>
+      <param>
+        <name>Anzahl Zylinder</name>
+        <value>6</value>
+      </param>
+      <param>
+        <name>Kabinen Anzahl</name>
+        <value>2</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>4</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boot24-472741</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/ferrykotter/472741/10-5.html</url>
+    <price>49990</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/ferrykotter/472741/10-5.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.16.2021 10:41:50 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-472741</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1985 · gepflegt · Deutschland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Ferrykotter / 10.5</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>49990</value>
+      </param>
+    </content>
+  </record>
+</records>

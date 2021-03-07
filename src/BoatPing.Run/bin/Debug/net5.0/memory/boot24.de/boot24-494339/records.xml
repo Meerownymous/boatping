@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-494339</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/jeanneau/494339/espace-990-mit-volvo-motor.html</url>
+    <price>39600</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/jeanneau/494339/espace-990-mit-volvo-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.17.2021 5:32:00 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-494339</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1988 · gepflegt · Frankreich</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Jeanneau / ESPACE 990</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>39600</value>
+      </param>
+    </content>
+  </record>
+</records>

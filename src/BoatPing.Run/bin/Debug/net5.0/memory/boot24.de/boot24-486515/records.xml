@@ -1,0 +1,118 @@
+<records>
+  <record>
+    <id>boot24-486515</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/maloe-yachts/486515/50-ketch.html</url>
+    <price>42500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/maloe-yachts/486515/50-ketch.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.30.2020 10:52:38 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-486515</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Malö Yachts (SE) - 50 Ketch</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>42500</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>Malö Yachts</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>50 Ketch</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Oude Tonge</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>12.30 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>3.35 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>1.35 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>Polyester</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>1981</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>5</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boot24-486515</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/maloe-yachts/486515/50-ketch.html</url>
+    <price>42500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/maloe-yachts/486515/50-ketch.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.16.2021 10:42:15 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-486515</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1981 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Malö Yachts (SE) / 50 Ketch</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>42500</value>
+      </param>
+    </content>
+  </record>
+</records>

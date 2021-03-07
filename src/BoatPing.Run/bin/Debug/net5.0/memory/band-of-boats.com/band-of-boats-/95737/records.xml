@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/95737</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/95737</url>
+    <price>40000</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/95737</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.8.2021 10:20:53 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/95737</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>GRUISSAN, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>KIRIE FEELING 346 DI</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>40000 </value>
+      </param>
+    </content>
+  </record>
+</records>

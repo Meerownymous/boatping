@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-490804</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/contest-yachts/490804/contest-33-mit-volvo-md11c-motor.html</url>
+    <price>18000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/contest-yachts/490804/contest-33-mit-volvo-md11c-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.4.2021 6:35:43 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-490804</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1977 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Contest Yachts / Contest 33</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>18000</value>
+      </param>
+    </content>
+  </record>
+</records>

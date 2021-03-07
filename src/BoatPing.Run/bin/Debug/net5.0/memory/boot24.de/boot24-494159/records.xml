@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-494159</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/yachting-france/494159/jouet-37-mit-volvo-penta-motor.html</url>
+    <price>28000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/yachting-france/494159/jouet-37-mit-volvo-penta-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.14.2021 5:28:37 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-494159</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1978 · gepflegt · Frankreich</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Yachting France / JOUET 37</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>28000</value>
+      </param>
+    </content>
+  </record>
+</records>

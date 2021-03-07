@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-474475</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/comar/474475/comet-1050-mit-nanni-diesel-motor.html</url>
+    <price>24900</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/comar/474475/comet-1050-mit-nanni-diesel-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.15.2021 9:42:43 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-474475</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1987 · gepflegt · Deutschland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Comar (IT) / Comet 1050</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>24900</value>
+      </param>
+    </content>
+  </record>
+</records>

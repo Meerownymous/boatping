@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boat24-461975</id>
+    <url>https://www.boat24.com/en/sailboats/deb-33-s-s-design/detail/461975/</url>
+    <price>22500</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/deb-33-s-s-design/detail/461975/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.27.2021 10:25:46 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-461975</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value></value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>DEB 33 S &amp; S Design</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 22500</value>
+      </param>
+    </content>
+  </record>
+</records>

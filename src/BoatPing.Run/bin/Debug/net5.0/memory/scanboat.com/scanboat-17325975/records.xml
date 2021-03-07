@@ -1,0 +1,74 @@
+<records>
+  <record>
+    <id>scanboat-17325975</id>
+    <url>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-nauticat-38-17325975</url>
+    <price>0</price>
+    <source>scanboat.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>scanboat.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-nauticat-38-17325975</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>3.6.2021 1:08:05 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>scanboat-17325975</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value></value>
+      </param>
+      <param>
+        <name>price</name>
+        <value></value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>scanboat-17325975</id>
+    <url>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-nauticat-38-17325975</url>
+    <price>70000</price>
+    <source>scanboat.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>scanboat.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-nauticat-38-17325975</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>3.7.2021 1:34:29 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>scanboat-17325975</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Country : Germany</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Nauticat 38</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>70000</value>
+      </param>
+    </content>
+  </record>
+</records>

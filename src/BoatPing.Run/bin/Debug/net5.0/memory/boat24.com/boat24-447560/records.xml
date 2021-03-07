@@ -1,0 +1,74 @@
+<records>
+  <record>
+    <id>boat24-447560</id>
+    <url>https://www.boat24.com/en/sailboats/x-yachts/x-yachts-x-119/detail/447560/</url>
+    <price>57200</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/x-yachts/x-yachts-x-119/detail/447560/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.1.2021 6:21:41 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-447560</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Denmark » Seeland » Vallensbæk</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>X-Yachts X-119</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 57200</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boat24-447560</id>
+    <url>https://www.boat24.com/en/sailboats/x-yachts/x-yachts-x-119/detail/447560/</url>
+    <price>57200</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/x-yachts/x-yachts-x-119/detail/447560/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.20.2021 9:15:24 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-447560</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value></value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>X-Yachts X-119</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 57200</value>
+      </param>
+    </content>
+  </record>
+</records>

@@ -1,0 +1,118 @@
+<records>
+  <record>
+    <id>boot24-476928</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/huitema-zeeschouw/476928/zeeschouw.html</url>
+    <price>34500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/huitema-zeeschouw/476928/zeeschouw.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.30.2020 10:51:19 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-476928</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>HUITEMA ZEESCHOUW - Zeeschouw</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>34500</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>HUITEMA ZEESCHOUW</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>Zeeschouw</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Enkhuizen</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>10.30 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>3.45 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>0.70 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>Stahl</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>1996</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>6</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boot24-476928</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/huitema-zeeschouw/476928/zeeschouw.html</url>
+    <price>34500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/huitema-zeeschouw/476928/zeeschouw.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.16.2021 10:42:36 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-476928</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1996 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>HUITEMA ZEESCHOUW / Zeeschouw</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>34500</value>
+      </param>
+    </content>
+  </record>
+</records>

@@ -1,0 +1,74 @@
+<records>
+  <record>
+    <id>boat24-430861</id>
+    <url>https://www.boat24.com/en/sailboats/scanmar/scanmar-33/detail/430861/</url>
+    <price>26700</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/scanmar/scanmar-33/detail/430861/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.15.2021 9:41:54 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-430861</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Denmark » Østjylland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Scanmar 33</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 26700</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boat24-430861</id>
+    <url>https://www.boat24.com/en/sailboats/scanmar/scanmar-33/detail/430861/</url>
+    <price>26700</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/scanmar/scanmar-33/detail/430861/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.20.2021 9:15:39 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-430861</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value></value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Scanmar 33</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 26700</value>
+      </param>
+    </content>
+  </record>
+</records>

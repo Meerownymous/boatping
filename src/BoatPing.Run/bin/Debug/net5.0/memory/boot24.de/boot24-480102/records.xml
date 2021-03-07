@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-480102</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/unbekannt/480102/stahl-segelyacht-eigenbau-ausbauprojekt-mit-mercedes-617-motor.html</url>
+    <price>25000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/unbekannt/480102/stahl-segelyacht-eigenbau-ausbauprojekt-mit-mercedes-617-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.15.2021 9:42:43 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-480102</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1989 · gepflegt · Deutschland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>unbekannt / Stahl Segelyacht Eigenbau Ausbauproj</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>25000</value>
+      </param>
+    </content>
+  </record>
+</records>

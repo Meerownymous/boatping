@@ -1,0 +1,118 @@
+<records>
+  <record>
+    <id>boot24-485322</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/one-design/485322/frans-maas.html</url>
+    <price>34500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/one-design/485322/frans-maas.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.30.2020 10:54:29 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-485322</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>One Design - Frans Maas</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>34500</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>One Design</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>Frans Maas</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Hoorn</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>10.65 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>3.25 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>1.75 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>Polyester</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>1973</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>5</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boot24-485322</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/one-design/485322/frans-maas.html</url>
+    <price>34500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/one-design/485322/frans-maas.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.16.2021 10:42:29 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-485322</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1973 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>One Design / Frans Maas</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>34500</value>
+      </param>
+    </content>
+  </record>
+</records>

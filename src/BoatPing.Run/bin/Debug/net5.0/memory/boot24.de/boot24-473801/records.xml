@@ -1,0 +1,102 @@
+<records>
+  <record>
+    <id>boot24-473801</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/hanse-yachts/473801/350-mit-yanmar-3ym20-diesel-motor.html</url>
+    <price>64800</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/hanse-yachts/473801/350-mit-yanmar-3ym20-diesel-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.29.2020 9:50:24 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-473801</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Hanse Yachts - 350</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>64800</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>Hanse Yachts</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>Hanse 350</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Breege</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>10.59 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>3.55 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>1.92 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>GFK</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>2007</value>
+      </param>
+      <param>
+        <name>Gewicht</name>
+        <value>6360.00 kg</value>
+      </param>
+      <param>
+        <name>Motoren Modell</name>
+        <value>Yanmar 3YM20 Diesel</value>
+      </param>
+      <param>
+        <name>Antrieb</name>
+        <value>Diesel</value>
+      </param>
+      <param>
+        <name>ges. Leistung</name>
+        <value>15 kW (21 PS)</value>
+      </param>
+      <param>
+        <name>Kabinen Anzahl</name>
+        <value>3</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>6</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+</records>

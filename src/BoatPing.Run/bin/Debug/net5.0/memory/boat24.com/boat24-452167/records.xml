@@ -1,0 +1,74 @@
+<records>
+  <record>
+    <id>boat24-452167</id>
+    <url>https://www.boat24.com/en/sailboats/hallberg-rassy/hallberg-rassy-rasmus-35/detail/452167/</url>
+    <price>39500</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/hallberg-rassy/hallberg-rassy-rasmus-35/detail/452167/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.1.2021 6:26:19 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-452167</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Germany » Schleswig-Holstein » Eckernförde</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Hallberg-Rassy Rasmus 35</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 39500</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boat24-452167</id>
+    <url>https://www.boat24.com/en/sailboats/hallberg-rassy/hallberg-rassy-rasmus-35/detail/452167/</url>
+    <price>39500</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/hallberg-rassy/hallberg-rassy-rasmus-35/detail/452167/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.20.2021 9:15:30 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-452167</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value></value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Hallberg-Rassy Rasmus 35</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 39500</value>
+      </param>
+    </content>
+  </record>
+</records>

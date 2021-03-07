@@ -1,0 +1,126 @@
+<records>
+  <record>
+    <id>boot24-490630</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/jeanneau/490630/sun-odyssey-50-ds-mit-yanmar-motor.html</url>
+    <price>187000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/jeanneau/490630/sun-odyssey-50-ds-mit-yanmar-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.31.2020 5:10:30 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-490630</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Jeanneau - Sun Odyssey 50 DS</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>187000</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>Jeanneau</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>Sun Odyssey 50</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Novi Vinodolski</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>14.75 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>4.49 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>2.15 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>GFK</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>2009</value>
+      </param>
+      <param>
+        <name>Betriebsstunden</name>
+        <value>1400 h</value>
+      </param>
+      <param>
+        <name>Gewicht</name>
+        <value>13500.00 kg</value>
+      </param>
+      <param>
+        <name>Brennstofftank</name>
+        <value>240.00 l</value>
+      </param>
+      <param>
+        <name>Frischwassertank</name>
+        <value>618.00 l</value>
+      </param>
+      <param>
+        <name>Motoren Anzahl</name>
+        <value>1</value>
+      </param>
+      <param>
+        <name>Motoren Modell</name>
+        <value>Yanmar</value>
+      </param>
+      <param>
+        <name>Antrieb</name>
+        <value>Diesel mit Innenborder</value>
+      </param>
+      <param>
+        <name>ges. Leistung</name>
+        <value>80 kW (110 PS)</value>
+      </param>
+      <param>
+        <name>Kabinen Anzahl</name>
+        <value>3</value>
+      </param>
+      <param>
+        <name>Nasszellen Anzahl</name>
+        <value>2</value>
+      </param>
+      <param>
+        <name>WC</name>
+        <value>WC elektrisch</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+      <param>
+        <name>CE Klasse</name>
+        <value>A</value>
+      </param>
+    </content>
+  </record>
+</records>

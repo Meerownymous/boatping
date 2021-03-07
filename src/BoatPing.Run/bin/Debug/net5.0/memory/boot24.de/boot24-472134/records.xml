@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-472134</id>
+    <url>https://www.boot24.com/segelboot/kielboot/hanse-yachts/472134/342-mit-yanmar-motor.html</url>
+    <price>53900</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/kielboot/hanse-yachts/472134/342-mit-yanmar-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.20.2021 8:47:20 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-472134</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Kielboot · Baujahr: 2006 · neuwertig · Frankreich</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Hanse Yachts / 342</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>53900</value>
+      </param>
+    </content>
+  </record>
+</records>

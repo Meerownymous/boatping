@@ -1,0 +1,74 @@
+<records>
+  <record>
+    <id>boat24-459575</id>
+    <url>https://www.boat24.com/en/sailboats/beneteau/beneteau-oceanis-351/detail/459575/</url>
+    <price>39000</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/beneteau/beneteau-oceanis-351/detail/459575/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.1.2021 6:26:23 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-459575</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>France » Côte d'Azur » Les Marines de Cogolin</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Bénéteau Oceanis 351</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 39000</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boat24-459575</id>
+    <url>https://www.boat24.com/en/sailboats/beneteau/beneteau-oceanis-351/detail/459575/</url>
+    <price>39000</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/beneteau/beneteau-oceanis-351/detail/459575/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.20.2021 9:15:29 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-459575</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value></value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Bénéteau Oceanis 351</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 39000</value>
+      </param>
+    </content>
+  </record>
+</records>

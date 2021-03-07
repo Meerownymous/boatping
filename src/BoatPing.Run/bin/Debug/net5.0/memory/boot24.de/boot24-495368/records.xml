@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-495368</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/catalina/495368/36-de-luxe.html</url>
+    <price>49000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/catalina/495368/36-de-luxe.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>3.4.2021 5:09:18 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-495368</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1994 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Catalina (USA) / 36 de Luxe</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>49000</value>
+      </param>
+    </content>
+  </record>
+</records>

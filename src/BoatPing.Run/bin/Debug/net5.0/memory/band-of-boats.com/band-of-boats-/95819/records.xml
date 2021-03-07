@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/95819</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/95819</url>
+    <price>49000</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/95819</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.10.2021 10:24:39 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/95819</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Var, France Méditerranée, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>POUVREAU MAREUIL</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>49000 </value>
+      </param>
+    </content>
+  </record>
+</records>

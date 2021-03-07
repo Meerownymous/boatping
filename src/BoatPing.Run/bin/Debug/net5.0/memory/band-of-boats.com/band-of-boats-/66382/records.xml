@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/66382</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/66382</url>
+    <price>49900</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/66382</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.17.2021 8:58:29 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/66382</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>PORT SAINT LOUIS DU RHONE, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>WHITBY 42</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>49900 </value>
+      </param>
+    </content>
+  </record>
+</records>

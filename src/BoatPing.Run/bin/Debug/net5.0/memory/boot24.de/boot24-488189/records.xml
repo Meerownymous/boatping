@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-488189</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/dick-zaal-yachtdesign/488189/alu-pilot-house-sloop-mit-mercedes-om-616-motor.html</url>
+    <price>115000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/dick-zaal-yachtdesign/488189/alu-pilot-house-sloop-mit-mercedes-om-616-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:52:04 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-488189</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1986 · gepflegt · Spanien</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Dick Zaal Yachtdesign / ALU Pilot House Sloop</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>115000</value>
+      </param>
+    </content>
+  </record>
+</records>

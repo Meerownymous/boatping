@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/88340</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/88340</url>
+    <price>48000</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/88340</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.17.2021 8:58:01 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/88340</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Martigues, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>SALAR 40</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>48000 </value>
+      </param>
+    </content>
+  </record>
+</records>

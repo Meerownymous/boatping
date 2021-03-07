@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-344828</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/nautors-swan/344828/swan-38-mit-yanmar-3gm30fc-30-motor.html</url>
+    <price>45000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/nautors-swan/344828/swan-38-mit-yanmar-3gm30fc-30-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.5.2021 11:15:27 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-344828</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1976 · gepflegt · Frankreich</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Nautors Swan (FI) / Swan 38</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>45000</value>
+      </param>
+    </content>
+  </record>
+</records>

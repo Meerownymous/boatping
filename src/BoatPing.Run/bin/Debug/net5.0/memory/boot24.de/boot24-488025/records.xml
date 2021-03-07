@@ -1,0 +1,94 @@
+<records>
+  <record>
+    <id>boot24-488025</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/jeanneau/488025/36-2.html</url>
+    <price>47500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/jeanneau/488025/36-2.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.30.2020 10:53:39 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-488025</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Jeanneau - 36.2</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>47500</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>Jeanneau</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>36.2</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Volendam (NL)</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>11.00 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>3.75 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>1.40 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>Polyester</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>1998</value>
+      </param>
+      <param>
+        <name>Betriebsstunden</name>
+        <value>511 h</value>
+      </param>
+      <param>
+        <name>Brennstofftank</name>
+        <value>150.00 l</value>
+      </param>
+      <param>
+        <name>Anzahl Zylinder</name>
+        <value>3</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>4</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+</records>

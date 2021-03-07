@@ -1,0 +1,74 @@
+<records>
+  <record>
+    <id>boat24-449885</id>
+    <url>https://www.boat24.com/en/sailboats/dufour/dufour-36-classic/detail/449885/</url>
+    <price>56600</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/dufour/dufour-36-classic/detail/449885/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.1.2021 6:26:33 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-449885</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>France » Languedoc-Roussillon Midi-Pyrénées</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Dufour 36 Classic</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 56600</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boat24-449885</id>
+    <url>https://www.boat24.com/en/sailboats/dufour/dufour-36-classic/detail/449885/</url>
+    <price>56600</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/dufour/dufour-36-classic/detail/449885/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.20.2021 9:15:34 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-449885</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value></value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Dufour 36 Classic</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 56600</value>
+      </param>
+    </content>
+  </record>
+</records>

@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/75969</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/75969</url>
+    <price>45000</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/75969</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.17.2021 8:58:18 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/75969</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>La Grande-Motte, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>DUFOUR GIB SEA 41</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>45000 </value>
+      </param>
+    </content>
+  </record>
+</records>

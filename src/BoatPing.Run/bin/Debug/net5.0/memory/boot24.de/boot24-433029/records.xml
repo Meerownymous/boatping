@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-433029</id>
+    <url>https://www.boot24.com/segelboot/kielboot/beneteau/433029/first-32-s-5-mit-volvo-penta-motor.html</url>
+    <price>23000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/kielboot/beneteau/433029/first-32-s-5-mit-volvo-penta-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.20.2021 8:47:21 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-433029</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Kielboot · Baujahr: 1989 · neuwertig · Frankreich</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Beneteau / First 32 s 5</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>23000</value>
+      </param>
+    </content>
+  </record>
+</records>

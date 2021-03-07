@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-493888</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/trintella/493888/iv.html</url>
+    <price>55000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/trintella/493888/iv.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.11.2021 5:03:17 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-493888</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1970 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Trintella / IV</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>55000</value>
+      </param>
+    </content>
+  </record>
+</records>

@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-482464</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/faurby/482464/faurby-36-deluxe-mit-yanmar-3gm-30-motor.html</url>
+    <price>85000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/faurby/482464/faurby-36-deluxe-mit-yanmar-3gm-30-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:51:59 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-482464</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1988 · gepflegt · Österreich</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Faurby (DK) / Faurby 36 Deluxe</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>85000</value>
+      </param>
+    </content>
+  </record>
+</records>

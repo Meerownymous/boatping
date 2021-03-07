@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>scanboat-17388854</id>
+    <url>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-standfast-36-17388854</url>
+    <price>32500</price>
+    <source>scanboat.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>scanboat.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-standfast-36-17388854</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.11.2021 2:31:18 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>scanboat-17388854</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Country : The Netherlands</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Standfast 36</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>32500</value>
+      </param>
+    </content>
+  </record>
+</records>

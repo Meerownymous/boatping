@@ -1,0 +1,130 @@
+<records>
+  <record>
+    <id>boot24-458464</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/custom/458464/classic-sloop-mit-volvo-penta-2003-motor.html</url>
+    <price>49000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/custom/458464/classic-sloop-mit-volvo-penta-2003-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.29.2020 9:05:53 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-458464</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Custom - Classic Sloop</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>49000</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>Custom</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>Classic Sloop</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Norddeutschland</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>11.35 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>3.24 m</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>1982</value>
+      </param>
+      <param>
+        <name>Motoren Anzahl</name>
+        <value>1</value>
+      </param>
+      <param>
+        <name>Motoren Modell</name>
+        <value>Volvo Penta 2003</value>
+      </param>
+      <param>
+        <name>Antrieb</name>
+        <value>Diesel mit Innenborder</value>
+      </param>
+      <param>
+        <name>ges. Leistung</name>
+        <value>20 kW (28 PS)</value>
+      </param>
+      <param>
+        <name>Kabinen Anzahl</name>
+        <value>1</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>2</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boot24-458464</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/custom/458464/classic-sloop-mit-volvo-penta-2003-motor.html</url>
+    <price>49000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/custom/458464/classic-sloop-mit-volvo-penta-2003-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.16.2021 10:41:57 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-458464</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1982 · gepflegt · Deutschland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Custom / Classic Sloop</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>49000</value>
+      </param>
+    </content>
+  </record>
+</records>

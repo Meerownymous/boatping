@@ -1,0 +1,162 @@
+<records>
+  <record>
+    <id>boot24-483964</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/beneteau/483964/first-25-7-s-mit-jannmar-motor.html</url>
+    <price>36000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/beneteau/483964/first-25-7-s-mit-jannmar-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.31.2020 5:09:42 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-483964</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Beneteau - First 25.7 S</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>36000</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>Beneteau</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>Beneteau First 25.7</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Lelystad</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>7.90 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>2.75 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>1.45 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>GFK</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>2008</value>
+      </param>
+      <param>
+        <name>Gewicht</name>
+        <value>2200.00 kg</value>
+      </param>
+      <param>
+        <name>Brennstofftank</name>
+        <value>50.00 l</value>
+      </param>
+      <param>
+        <name>Frischwassertank</name>
+        <value>30.00 l</value>
+      </param>
+      <param>
+        <name>Motoren Anzahl</name>
+        <value>1</value>
+      </param>
+      <param>
+        <name>Motoren Modell</name>
+        <value>jannmar</value>
+      </param>
+      <param>
+        <name>Antrieb</name>
+        <value>Diesel mit Innenborder</value>
+      </param>
+      <param>
+        <name>ges. Leistung</name>
+        <value>10 kW (14 PS)</value>
+      </param>
+      <param>
+        <name>Kabinen Anzahl</name>
+        <value>1</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>4</value>
+      </param>
+      <param>
+        <name>Nasszellen Anzahl</name>
+        <value>1</value>
+      </param>
+      <param>
+        <name>WC</name>
+        <value>WC Chemie, Waschbecken</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+      <param>
+        <name>CE Klasse</name>
+        <value>B</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boot24-483964</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/beneteau/483964/first-25-7-s-mit-jannmar-motor.html</url>
+    <price>36000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/beneteau/483964/first-25-7-s-mit-jannmar-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:51:40 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-483964</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 2008 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Beneteau / First 25.7 S</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>36000</value>
+      </param>
+    </content>
+  </record>
+</records>

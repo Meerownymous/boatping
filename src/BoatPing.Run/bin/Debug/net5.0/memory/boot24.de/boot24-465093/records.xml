@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-465093</id>
+    <url>https://www.boot24.com/segelboot/kajuetboot/rebell-werft/465093/seaskip-ii-mit-yamaha-motor.html</url>
+    <price>2400</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/kajuetboot/rebell-werft/465093/seaskip-ii-mit-yamaha-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:51:49 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-465093</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Kajütboot · Baujahr: 1972 · gepflegt · Deutschland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Rebell Werft (DE) / Seaskip II</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>2400</value>
+      </param>
+    </content>
+  </record>
+</records>

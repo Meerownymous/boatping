@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-494925</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/beneteau/494925/oceanis-331-mit-yanmar-motor.html</url>
+    <price>49500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/beneteau/494925/oceanis-331-mit-yanmar-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.25.2021 5:25:03 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-494925</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 2003 · gepflegt · Frankreich</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Beneteau / OCEANIS 331</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>49500</value>
+      </param>
+    </content>
+  </record>
+</records>

@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-437245</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/puffin/437245/58-classic-mit-perkins-m150ti-motor.html</url>
+    <price>990000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/puffin/437245/58-classic-mit-perkins-m150ti-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:52:25 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-437245</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 2015 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Puffin / 58 Classic</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>990000</value>
+      </param>
+    </content>
+  </record>
+</records>

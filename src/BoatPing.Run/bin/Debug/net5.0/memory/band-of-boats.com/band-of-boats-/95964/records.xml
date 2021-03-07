@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/95964</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/95964</url>
+    <price>24900</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/95964</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.15.2021 10:56:03 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/95964</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>LE GRAU DU ROI, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>MELODY</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>24900 </value>
+      </param>
+    </content>
+  </record>
+</records>

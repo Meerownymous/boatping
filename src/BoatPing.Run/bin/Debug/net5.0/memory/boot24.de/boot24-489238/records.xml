@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-489238</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/vindoe/489238/ms-50-mit-volvo-penta-motor.html</url>
+    <price>26000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/vindoe/489238/ms-50-mit-volvo-penta-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.15.2021 9:42:55 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-489238</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1972 · reparaturbedürftig · Deutschland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Vindö (SE) / Ms 50</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>26000</value>
+      </param>
+    </content>
+  </record>
+</records>

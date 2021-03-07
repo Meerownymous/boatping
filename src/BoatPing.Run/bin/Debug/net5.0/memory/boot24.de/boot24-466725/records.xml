@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-466725</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/vermeulens-yachtwerft/466725/super-scheldeschouw-mit-volvo-penta-motor.html</url>
+    <price>27000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/vermeulens-yachtwerft/466725/super-scheldeschouw-mit-volvo-penta-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:50:03 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-466725</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1972 · gepflegt · Kroatien</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Vermeulens Yachtwerft (NL) / Super Scheldeschouw</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>27000</value>
+      </param>
+    </content>
+  </record>
+</records>

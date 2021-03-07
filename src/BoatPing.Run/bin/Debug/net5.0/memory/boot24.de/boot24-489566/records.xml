@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-489566</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/custom/489566/49-mit-perkins-motor.html</url>
+    <price>285000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/custom/489566/49-mit-perkins-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:52:13 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-489566</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 2003 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Custom / 49</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>285000</value>
+      </param>
+    </content>
+  </record>
+</records>

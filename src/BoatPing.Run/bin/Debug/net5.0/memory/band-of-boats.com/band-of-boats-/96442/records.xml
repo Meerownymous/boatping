@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/96442</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/96442</url>
+    <price>32500</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/96442</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>3.1.2021 10:06:04 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/96442</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>11 Watersportlaan, Nieuwpoort, Belgique</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>KOOPMANS 36</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>32500 </value>
+      </param>
+    </content>
+  </record>
+</records>

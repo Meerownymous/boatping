@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>scanboat-17389293</id>
+    <url>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-bavaria-37-3-17389293</url>
+    <price>54950</price>
+    <source>scanboat.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>scanboat.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-bavaria-37-3-17389293</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.14.2021 2:21:51 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>scanboat-17389293</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Country : The Netherlands</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Bavaria 37-3</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>54950</value>
+      </param>
+    </content>
+  </record>
+</records>

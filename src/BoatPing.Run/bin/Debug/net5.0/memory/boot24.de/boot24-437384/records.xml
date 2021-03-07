@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-437384</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/burmester/437384/achat-mit-yamaha-motor.html</url>
+    <price>14444</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/burmester/437384/achat-mit-yamaha-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:50:07 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-437384</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1976 · neuwertig · Deutschland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Burmester (DE) / Achat</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>14444</value>
+      </param>
+    </content>
+  </record>
+</records>

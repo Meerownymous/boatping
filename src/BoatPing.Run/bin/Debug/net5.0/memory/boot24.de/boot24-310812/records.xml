@@ -1,0 +1,138 @@
+<records>
+  <record>
+    <id>boot24-310812</id>
+    <url>https://www.boot24.com/segelboot/klassiker/olsen/310812/nimbus-33-mit-volvo-penta-2003-motor.html</url>
+    <price>49900</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/klassiker/olsen/310812/nimbus-33-mit-volvo-penta-2003-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.29.2020 9:04:23 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-310812</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Olsen (DK) - Nimbus 33</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>49900</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>Olsen</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>Nimbus 33</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Klassiker</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Norddeutschland</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>10.33 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>2.80 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>1.80 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>GFK</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>1970</value>
+      </param>
+      <param>
+        <name>Brennstofftank</name>
+        <value>100.00 l</value>
+      </param>
+      <param>
+        <name>Motoren Anzahl</name>
+        <value>1</value>
+      </param>
+      <param>
+        <name>Motoren Modell</name>
+        <value>Volvo Penta 2003</value>
+      </param>
+      <param>
+        <name>ges. Leistung</name>
+        <value>18 kW (25 PS)</value>
+      </param>
+      <param>
+        <name>Kabinen Anzahl</name>
+        <value>1</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>2</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boot24-310812</id>
+    <url>https://www.boot24.com/segelboot/klassiker/olsen/310812/nimbus-33-mit-volvo-penta-2003-motor.html</url>
+    <price>49900</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/klassiker/olsen/310812/nimbus-33-mit-volvo-penta-2003-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.16.2021 10:41:58 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-310812</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Klassiker · Baujahr: 1970 · gepflegt · Deutschland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Olsen (DK) / Nimbus 33</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>49900</value>
+      </param>
+    </content>
+  </record>
+</records>

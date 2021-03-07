@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-490189</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/jeanneau/490189/sun-odyssey-36-2-mit-volvo-penta-motor.html</url>
+    <price>53000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/jeanneau/490189/sun-odyssey-36-2-mit-volvo-penta-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.20.2021 8:49:24 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-490189</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1997 · gepflegt · Belgien</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Jeanneau / Sun Odyssey 36.2</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>53000</value>
+      </param>
+    </content>
+  </record>
+</records>

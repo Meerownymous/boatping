@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>scanboat-17390556</id>
+    <url>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-beneteau-40-cc-17390556</url>
+    <price>47300</price>
+    <source>scanboat.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>scanboat.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-beneteau-40-cc-17390556</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>3.6.2021 2:46:57 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>scanboat-17390556</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Country : Denmark</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Beneteau 40 CC</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>47300</value>
+      </param>
+    </content>
+  </record>
+</records>

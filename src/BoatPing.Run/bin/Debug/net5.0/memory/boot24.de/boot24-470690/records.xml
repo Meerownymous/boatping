@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-470690</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/luebbe-voss/470690/hallig-31-hubkiel-mit-nanni-diesel-motor.html</url>
+    <price>22500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/luebbe-voss/470690/hallig-31-hubkiel-mit-nanni-diesel-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:52:13 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-470690</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1978 · gepflegt · Deutschland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Lübbe Voss (DE) / Hallig 31 Hubkiel</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>22500</value>
+      </param>
+    </content>
+  </record>
+</records>

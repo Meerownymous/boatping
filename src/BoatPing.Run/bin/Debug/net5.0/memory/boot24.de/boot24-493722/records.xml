@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-493722</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/jeanneau/493722/sun-dance-36-mit-yanmar-motor.html</url>
+    <price>39900</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/jeanneau/493722/sun-dance-36-mit-yanmar-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.10.2021 5:31:00 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-493722</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1990 · gepflegt · Frankreich</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Jeanneau / SUN DANCE 36</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>39900</value>
+      </param>
+    </content>
+  </record>
+</records>

@@ -1,0 +1,130 @@
+<records>
+  <record>
+    <id>boot24-475411</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/ron-holland/475411/42-ior-2-ton-cup.html</url>
+    <price>57500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/ron-holland/475411/42-ior-2-ton-cup.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.30.2020 10:50:46 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-475411</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>RON HOLLAND - 42 IOR 2 Ton Cup</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>57500</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>RON HOLLAND</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>42 IOR 2 Ton Cup</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Stad aan 't Haringvliet (NL)</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>12.60 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>3.90 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>2.40 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>Aluminium</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>1976</value>
+      </param>
+      <param>
+        <name>Betriebsstunden</name>
+        <value>1200 h</value>
+      </param>
+      <param>
+        <name>Brennstofftank</name>
+        <value>90.00 l</value>
+      </param>
+      <param>
+        <name>Kabinen Anzahl</name>
+        <value>(2x dubbel bed / 2x enkel)</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>6</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boot24-475411</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/ron-holland/475411/42-ior-2-ton-cup.html</url>
+    <price>57500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/ron-holland/475411/42-ior-2-ton-cup.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.16.2021 10:42:35 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-475411</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1976 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>RON HOLLAND / 42 IOR 2 Ton Cup</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>57500</value>
+      </param>
+    </content>
+  </record>
+</records>

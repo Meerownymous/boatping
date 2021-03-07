@@ -1,0 +1,74 @@
+<records>
+  <record>
+    <id>band-of-boats-/91710</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/91710</url>
+    <price>32000</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/91710</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.17.2021 8:57:45 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/91710</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Port Napoléon, Port-Saint-Louis-du-Rhône, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>BENETEAU FIRST 345 SHALLOW DRAFT</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>32000 </value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>band-of-boats-/91710</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/91710</url>
+    <price>28000</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/91710</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>3.1.2021 2:36:52 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/91710</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Port Napoléon, Port-Saint-Louis-du-Rhône, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>BENETEAU FIRST 345 SHALLOW DRAFT</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>28000 </value>
+      </param>
+    </content>
+  </record>
+</records>

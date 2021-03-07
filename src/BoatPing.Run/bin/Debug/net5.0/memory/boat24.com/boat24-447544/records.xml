@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boat24-447544</id>
+    <url>https://www.boat24.com/en/sailboats/friendship/friendship-33/detail/447544/</url>
+    <price>29000</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/friendship/friendship-33/detail/447544/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.15.2021 9:41:48 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-447544</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Germany » Flensburg</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Friendship 33</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 29000</value>
+      </param>
+    </content>
+  </record>
+</records>

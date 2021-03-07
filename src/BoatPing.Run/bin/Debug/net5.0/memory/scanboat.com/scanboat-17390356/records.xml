@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>scanboat-17390356</id>
+    <url>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-elan-38-17390356</url>
+    <price>44000</price>
+    <source>scanboat.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>scanboat.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-elan-38-17390356</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>3.3.2021 9:05:20 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>scanboat-17390356</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Country : Germany</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Elan 38</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>44000</value>
+      </param>
+    </content>
+  </record>
+</records>

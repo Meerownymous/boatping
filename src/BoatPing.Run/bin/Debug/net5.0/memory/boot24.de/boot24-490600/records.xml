@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-490600</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/maelar/490600/30.html</url>
+    <price>49500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/maelar/490600/30.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.1.2021 6:23:01 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-490600</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1973 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Mälar / 30</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>49500</value>
+      </param>
+    </content>
+  </record>
+</records>

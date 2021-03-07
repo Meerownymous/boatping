@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-493414</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/hunter/493414/hunter-36-mit-volvo-penta-motor.html</url>
+    <price>46000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/hunter/493414/hunter-36-mit-volvo-penta-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.6.2021 5:19:13 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-493414</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 2004 · gepflegt · Frankreich</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Hunter (USA) / HUNTER 36</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>46000</value>
+      </param>
+    </content>
+  </record>
+</records>

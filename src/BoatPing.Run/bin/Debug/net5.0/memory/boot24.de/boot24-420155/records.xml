@@ -1,0 +1,154 @@
+<records>
+  <record>
+    <id>boot24-420155</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/etap/420155/34s.html</url>
+    <price>49500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/etap/420155/34s.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.30.2020 10:54:06 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-420155</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Etap (BE) - 34S</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>49500</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>Etap</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>34S</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Niederlande</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>10.62 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>3.52 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>1.85 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>GFK</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>2000</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>4</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boot24-420155</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/etap/420155/34s.html</url>
+    <price>49500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/etap/420155/34s.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.16.2021 10:42:28 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-420155</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 2000 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Etap (BE) / 34S</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>49500</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boot24-420155</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/etap/420155/34s.html</url>
+    <price>47500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/etap/420155/34s.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.18.2021 6:51:10 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-420155</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 2000 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Etap (BE) / 34S</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>47500</value>
+      </param>
+    </content>
+  </record>
+</records>

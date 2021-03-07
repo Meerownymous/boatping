@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-492589</id>
+    <url>https://www.boot24.com/segelboot/kielboot/canvey-yachts/492589/jaguar-25-inkl-strassen-trailer-mit-volvo-penta-motor.html</url>
+    <price>11500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/kielboot/canvey-yachts/492589/jaguar-25-inkl-strassen-trailer-mit-volvo-penta-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:51:15 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-492589</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Kielboot · Baujahr: 1979 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Canvey Yachts / Jaguar 25 inkl. Straßen-Trailer</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>11500</value>
+      </param>
+    </content>
+  </record>
+</records>

@@ -1,0 +1,98 @@
+<records>
+  <record>
+    <id>boot24-490298</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/beneteau/490298/oceanis-331-clipper.html</url>
+    <price>49990</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/beneteau/490298/oceanis-331-clipper.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.30.2020 10:52:57 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-490298</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Beneteau - Oceanis 331 Clipper</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>49990</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>Beneteau</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>Bénéteau Océanis Clipper 331</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Schokkerhaven (NL)</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>10.41 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>3.46 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>1.65 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>Polyester</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>2002</value>
+      </param>
+      <param>
+        <name>Betriebsstunden</name>
+        <value>1575 h</value>
+      </param>
+      <param>
+        <name>Brennstofftank</name>
+        <value>68.00 l</value>
+      </param>
+      <param>
+        <name>Anzahl Zylinder</name>
+        <value>3</value>
+      </param>
+      <param>
+        <name>Kabinen Anzahl</name>
+        <value>2 af te sluiten hutten</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>4</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+</records>

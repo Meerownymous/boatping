@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/90158</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/90158</url>
+    <price>44000</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/90158</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.17.2021 8:57:52 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/90158</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Morbihan, LOCMIQUELIC, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>CUSTOMBUILT 11.1 WOODCOCQ</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>44000 </value>
+      </param>
+    </content>
+  </record>
+</records>

@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-451311</id>
+    <url>https://www.boot24.com/segelboot/kreuzer/beneteau/451311/oceanis-55-mit-yanmar-motor.html</url>
+    <price>369000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/kreuzer/beneteau/451311/oceanis-55-mit-yanmar-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:51:16 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-451311</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Kreuzer · Baujahr: 2017 · neuwertig · Griechenland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Beneteau / OCEANIS 55</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>369000</value>
+      </param>
+    </content>
+  </record>
+</records>

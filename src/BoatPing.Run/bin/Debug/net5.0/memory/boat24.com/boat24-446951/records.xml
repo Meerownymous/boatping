@@ -1,0 +1,74 @@
+<records>
+  <record>
+    <id>boat24-446951</id>
+    <url>https://www.boat24.com/en/sailboats/bekebrede-36/detail/446951/</url>
+    <price>39500</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/bekebrede-36/detail/446951/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.1.2021 6:26:33 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-446951</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Netherlands » In verkoophaven</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Bekebrede 36</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 39500</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boat24-446951</id>
+    <url>https://www.boat24.com/en/sailboats/bekebrede-36/detail/446951/</url>
+    <price>39500</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/bekebrede-36/detail/446951/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.20.2021 9:15:49 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-446951</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value></value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Bekebrede 36</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 39500</value>
+      </param>
+    </content>
+  </record>
+</records>

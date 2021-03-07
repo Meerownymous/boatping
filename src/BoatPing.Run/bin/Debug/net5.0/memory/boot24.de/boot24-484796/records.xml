@@ -1,0 +1,94 @@
+<records>
+  <record>
+    <id>boot24-484796</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/sunbeam-yachts/484796/34.html</url>
+    <price>44500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/sunbeam-yachts/484796/34.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.30.2020 10:51:56 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-484796</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Sunbeam Yachts - 34</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>44500</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>Sunbeam Yachts</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>34</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Goudswaard (NL)</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>10.55 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>3.45 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>1.80 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>Polyester</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>1987</value>
+      </param>
+      <param>
+        <name>Brennstofftank</name>
+        <value>140.00 l</value>
+      </param>
+      <param>
+        <name>Anzahl Zylinder</name>
+        <value>3</value>
+      </param>
+      <param>
+        <name>Kabinen Anzahl</name>
+        <value>dubbele</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>4</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+</records>

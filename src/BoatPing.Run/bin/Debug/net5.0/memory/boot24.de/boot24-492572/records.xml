@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-492572</id>
+    <url>https://www.boot24.com/segelboot/kreuzer/southerly/492572/southerly-105-mit-bukh-dv-36-motor.html</url>
+    <price>42900</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/kreuzer/southerly/492572/southerly-105-mit-bukh-dv-36-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.26.2021 5:39:58 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-492572</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Kreuzer · Baujahr: 1980 · gepflegt · Deutschland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Southerly / Southerly 105</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>42900</value>
+      </param>
+    </content>
+  </record>
+</records>

@@ -1,0 +1,110 @@
+<records>
+  <record>
+    <id>boat24-407383</id>
+    <url>https://www.boat24.com/en/sailboats/maxi/maxi-999/detail/407383/</url>
+    <price>37700</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/maxi/maxi-999/detail/407383/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.1.2021 6:26:24 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-407383</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Denmark » Øresund</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Maxi 999</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 37700</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boat24-407383</id>
+    <url>https://www.boat24.com/en/sailboats/maxi/maxi-999/detail/407383/</url>
+    <price>37700</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/maxi/maxi-999/detail/407383/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.20.2021 9:15:39 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-407383</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value></value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Maxi 999</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 37700</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boat24-407383</id>
+    <url>https://www.boat24.com/en/sailboats/maxi/maxi-999/detail/407383/</url>
+    <price>35000</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/maxi/maxi-999/detail/407383/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.13.2021 9:44:18 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-407383</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value></value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Maxi 999</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 35000</value>
+      </param>
+    </content>
+  </record>
+</records>

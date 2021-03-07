@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/88881</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/88881</url>
+    <price>29900</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/88881</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.17.2021 8:58:01 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/88881</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>La Roche Bernard, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>GLADIATEUR</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>29900 </value>
+      </param>
+    </content>
+  </record>
+</records>

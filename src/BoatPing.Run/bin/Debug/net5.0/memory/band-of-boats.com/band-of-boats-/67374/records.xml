@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/67374</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/67374</url>
+    <price>53000</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/67374</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.17.2021 8:58:28 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/67374</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Port-Saint-Louis-du-Rhône, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>BENETEAU OCEANIS 390</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>53000 </value>
+      </param>
+    </content>
+  </record>
+</records>

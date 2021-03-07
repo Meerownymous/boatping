@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/94779</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/94779</url>
+    <price>42900</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/94779</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.27.2021 11:37:28 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/94779</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Norddeutschland, Allemagne</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>NORTHSHORE YACHTS SOUTHERLY 105</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>42900 </value>
+      </param>
+    </content>
+  </record>
+</records>

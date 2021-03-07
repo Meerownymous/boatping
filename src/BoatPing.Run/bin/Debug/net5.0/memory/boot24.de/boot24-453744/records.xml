@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-453744</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/beneteau/453744/first-45-lnp450-000euro-mit-yanmar-motor.html</url>
+    <price>176000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/beneteau/453744/first-45-lnp450-000euro-mit-yanmar-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:51:59 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-453744</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 2008 · gepflegt · Kroatien</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Beneteau / First 45 LNP:&gt;450.000Euro</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>176000</value>
+      </param>
+    </content>
+  </record>
+</records>

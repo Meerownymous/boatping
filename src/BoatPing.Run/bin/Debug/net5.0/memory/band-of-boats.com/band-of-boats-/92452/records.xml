@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/92452</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/92452</url>
+    <price>50000</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/92452</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.17.2021 8:57:44 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/92452</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Bretagne, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>SWEDEN YACHTS COMFORT 34</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>50000 </value>
+      </param>
+    </content>
+  </record>
+</records>

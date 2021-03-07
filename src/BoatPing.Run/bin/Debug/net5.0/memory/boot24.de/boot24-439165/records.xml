@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-439165</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/hallberg-rassy/439165/42-nr-73-mit-volvo-penta-md22p-motor.html</url>
+    <price>0</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/hallberg-rassy/439165/42-nr-73-mit-volvo-penta-md22p-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.26.2021 5:01:54 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-439165</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1983 · gepflegt · Spanien</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Hallberg-Rassy / 42 Nr.73</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>Preis auf Anfrage</value>
+      </param>
+    </content>
+  </record>
+</records>

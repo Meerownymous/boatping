@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-488289</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/noordkaper/488289/40-fuss-mit-vw-marine-100-5-tdi-motor.html</url>
+    <price>315000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/noordkaper/488289/40-fuss-mit-vw-marine-100-5-tdi-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:51:54 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-488289</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 2005 · gepflegt · Deutschland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Noordkaper / 40 Fuss</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>315000</value>
+      </param>
+    </content>
+  </record>
+</records>

@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-339310</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/baron-yachtbau/339310/s-spant-mit-mitsubishu-motor.html</url>
+    <price>29500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/baron-yachtbau/339310/s-spant-mit-mitsubishu-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.15.2021 9:43:22 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-339310</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1971 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Baron Yachtbau (DL) / S-spant</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>29500</value>
+      </param>
+    </content>
+  </record>
+</records>

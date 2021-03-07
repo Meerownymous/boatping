@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/95686</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/95686</url>
+    <price>48900</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/95686</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.5.2021 4:52:12 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/95686</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Carnon plage, Mauguio, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>JEANNEAU ESPACE 1000 DL</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>48900 </value>
+      </param>
+    </content>
+  </record>
+</records>

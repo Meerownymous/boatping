@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<searches>
+    <search>
+        <title>default-de</title>
+        <root>https://www.boot24.com/segelboot/</root>
+        <query>
+            <param>
+                <name>pab</name>
+                <value>35000</value>
+            </param>
+            <param>
+                <name>pbis</name>
+                <value>58000</value>
+            </param>
+            <param>
+                <name>jahrvon</name>
+                <value>1970</value>
+            </param>
+            <param>
+                <name>lmin</name>
+                <value>10</value>
+            </param>
+            <param>
+                <name>lmax</name>
+                <value>13</value>
+            </param>      
+            <param>
+                <name>land</name>
+                <value>c0</value>Í
+            </param>            
+            <param>
+                <name>typ</name>
+                <value>t6</value>
+            </param>
+            <param>
+                <name>code</name>
+                <value>segelboot_alle</value>
+            </param>            
+        </query>
+            
+    </search>
+        
+</searches>

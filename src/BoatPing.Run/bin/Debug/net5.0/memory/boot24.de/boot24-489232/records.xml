@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-489232</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/sas-vektor/489232/39-mit-yanmar-motor.html</url>
+    <price>40000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/sas-vektor/489232/39-mit-yanmar-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:51:59 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-489232</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1996 · gepflegt · Kroatien</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Sas-vektor / 39</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>40000</value>
+      </param>
+    </content>
+  </record>
+</records>

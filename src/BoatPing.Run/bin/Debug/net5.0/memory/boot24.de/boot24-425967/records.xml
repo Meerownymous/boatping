@@ -1,0 +1,162 @@
+<records>
+  <record>
+    <id>boot24-425967</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/dehler/425967/42-mit-volvo-d2-40-motor.html</url>
+    <price>273621</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/dehler/425967/42-mit-volvo-d2-40-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.29.2020 9:15:37 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-425967</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Dehler - 42</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>273621</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>Dehler</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>42</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Burgstaaken</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>12.84 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>3.91 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>2.15 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>GFK</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>2016</value>
+      </param>
+      <param>
+        <name>Betriebsstunden</name>
+        <value>160 h</value>
+      </param>
+      <param>
+        <name>Gewicht</name>
+        <value>9100.00 kg</value>
+      </param>
+      <param>
+        <name>Brennstofftank</name>
+        <value>160.00 l</value>
+      </param>
+      <param>
+        <name>Frischwassertank</name>
+        <value>295.00 l</value>
+      </param>
+      <param>
+        <name>Motoren Anzahl</name>
+        <value>1</value>
+      </param>
+      <param>
+        <name>Motoren Modell</name>
+        <value>Volvo D2-40</value>
+      </param>
+      <param>
+        <name>Antrieb</name>
+        <value>Diesel mit Innenborder</value>
+      </param>
+      <param>
+        <name>ges. Leistung</name>
+        <value>29 kW (40 PS)</value>
+      </param>
+      <param>
+        <name>Kabinen Anzahl</name>
+        <value>3</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>6</value>
+      </param>
+      <param>
+        <name>Nasszellen Anzahl</name>
+        <value>1</value>
+      </param>
+      <param>
+        <name>WC</name>
+        <value>WC elektrisch, Waschbecken, Dusche</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boot24-425967</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/dehler/425967/42-mit-volvo-d2-40-motor.html</url>
+    <price>273621</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/dehler/425967/42-mit-volvo-d2-40-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:51:59 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-425967</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 2016 · gepflegt · Deutschland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Dehler / 42</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>273621</value>
+      </param>
+    </content>
+  </record>
+</records>

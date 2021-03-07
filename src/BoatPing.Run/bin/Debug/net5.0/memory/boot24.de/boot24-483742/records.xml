@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-483742</id>
+    <url>https://www.boot24.com/segelboot/kielboot/j-boats/483742/j70-top-zustand-max-20-x-gesegelt.html</url>
+    <price>45000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/kielboot/j-boats/483742/j70-top-zustand-max-20-x-gesegelt.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.4.2021 6:35:43 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-483742</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Kielboot · Baujahr: 2016 · neuwertig · Deutschland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>J-Boats / J70 Top Zustand (max 20 x gesegelt</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>45000</value>
+      </param>
+    </content>
+  </record>
+</records>

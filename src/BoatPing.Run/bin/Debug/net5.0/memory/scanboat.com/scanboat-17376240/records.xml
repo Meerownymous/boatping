@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>scanboat-17376240</id>
+    <url>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-hanse-331-17376240</url>
+    <price>45000</price>
+    <source>scanboat.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>scanboat.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-hanse-331-17376240</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>3.4.2021 12:39:10 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>scanboat-17376240</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Country : Denmark</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Hanse 331</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>45000</value>
+      </param>
+    </content>
+  </record>
+</records>

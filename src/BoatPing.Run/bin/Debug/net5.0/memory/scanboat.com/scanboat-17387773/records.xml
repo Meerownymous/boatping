@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>scanboat-17387773</id>
+    <url>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-bavaria-35-match-17387773</url>
+    <price>52440</price>
+    <source>scanboat.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>scanboat.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-bavaria-35-match-17387773</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.4.2021 2:40:25 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>scanboat-17387773</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Country : United Kingdom</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Bavaria 35 Match</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>52440</value>
+      </param>
+    </content>
+  </record>
+</records>

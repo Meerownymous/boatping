@@ -1,0 +1,74 @@
+<records>
+  <record>
+    <id>boat24-433103</id>
+    <url>https://www.boat24.com/en/sailboats/bianca-yachts/bianca-yachts-107/detail/433103/</url>
+    <price>34500</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/bianca-yachts/bianca-yachts-107/detail/433103/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.1.2021 6:26:39 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-433103</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Netherlands » In verkoophaven</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Bianca Yachts 107</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 34500</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boat24-433103</id>
+    <url>https://www.boat24.com/en/sailboats/bianca-yachts/bianca-yachts-107/detail/433103/</url>
+    <price>34500</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/bianca-yachts/bianca-yachts-107/detail/433103/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.20.2021 9:15:39 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-433103</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value></value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Bianca Yachts 107</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 34500</value>
+      </param>
+    </content>
+  </record>
+</records>

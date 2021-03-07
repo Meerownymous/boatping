@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-457016</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/hanse-yachts/457016/495-mit-volvo-penta-motor.html</url>
+    <price>169000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/hanse-yachts/457016/495-mit-volvo-penta-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.26.2021 5:01:54 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-457016</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 2012 · gepflegt · Kroatien</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Hanse Yachts / 495</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>169000</value>
+      </param>
+    </content>
+  </record>
+</records>

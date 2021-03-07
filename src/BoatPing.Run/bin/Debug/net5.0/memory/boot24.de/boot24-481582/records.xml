@@ -1,0 +1,118 @@
+<records>
+  <record>
+    <id>boot24-481582</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/unbekannt/481582/1100.html</url>
+    <price>35000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/unbekannt/481582/1100.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.30.2020 10:53:45 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-481582</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>unbekannt - 1100</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>35000</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>unbekannt</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>1100</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Warns</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>11.03 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>3.41 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>1.95 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>Stahl</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>1989</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>6</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boot24-481582</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/unbekannt/481582/1100.html</url>
+    <price>35000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/unbekannt/481582/1100.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.16.2021 10:42:22 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-481582</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1989 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>unbekannt / 1100</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>35000</value>
+      </param>
+    </content>
+  </record>
+</records>

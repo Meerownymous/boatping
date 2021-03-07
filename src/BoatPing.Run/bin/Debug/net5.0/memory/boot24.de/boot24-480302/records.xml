@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-480302</id>
+    <url>https://www.boot24.com/segelboot/klassiker/burmester/480302/30qm-seefahrtskreuzer-mit-suzuki-motor.html</url>
+    <price>0</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/klassiker/burmester/480302/30qm-seefahrtskreuzer-mit-suzuki-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:51:59 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-480302</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Klassiker · Baujahr: 1938 · gepflegt · Deutschland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Burmester (DE) / 30qm Seefahrtskreuzer</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>Preis auf Anfrage</value>
+      </param>
+    </content>
+  </record>
+</records>

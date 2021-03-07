@@ -1,0 +1,74 @@
+<records>
+  <record>
+    <id>boat24-461794</id>
+    <url>https://www.boat24.com/en/sailboats/traditionssegler/traditionssegler-jagt/detail/461794/</url>
+    <price>52500</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/traditionssegler/traditionssegler-jagt/detail/461794/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.24.2021 11:51:48 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-461794</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value></value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Traditionssegler Jagt</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 52500</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boat24-461794</id>
+    <url>https://www.boat24.com/en/sailboats/traditionssegler-jagt/detail/461794/</url>
+    <price>52500</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/traditionssegler-jagt/detail/461794/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.25.2021 10:23:23 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-461794</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value></value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Traditionssegler Jagt</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 52500</value>
+      </param>
+    </content>
+  </record>
+</records>

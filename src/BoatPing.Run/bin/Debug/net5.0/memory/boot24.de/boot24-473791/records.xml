@@ -1,0 +1,102 @@
+<records>
+  <record>
+    <id>boot24-473791</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/bavaria/473791/cruiser-41-mit-volvo-penta-d2-40-motor.html</url>
+    <price>153000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/bavaria/473791/cruiser-41-mit-volvo-penta-d2-40-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.29.2020 9:50:04 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-473791</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Bavaria - Cruiser 41</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>153000</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>Bavaria</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>Bavaria 41 Cruiser</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Breege</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>12.35 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>3.96 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>2.05 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>GFK</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>2017</value>
+      </param>
+      <param>
+        <name>Gewicht</name>
+        <value>8680.00 kg</value>
+      </param>
+      <param>
+        <name>Motoren Modell</name>
+        <value>Volvo Penta D2-40</value>
+      </param>
+      <param>
+        <name>Antrieb</name>
+        <value>Diesel</value>
+      </param>
+      <param>
+        <name>ges. Leistung</name>
+        <value>27 kW (38 PS)</value>
+      </param>
+      <param>
+        <name>Kabinen Anzahl</name>
+        <value>3</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>6</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+</records>

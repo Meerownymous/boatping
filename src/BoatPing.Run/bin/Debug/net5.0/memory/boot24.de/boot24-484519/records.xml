@@ -1,0 +1,154 @@
+<records>
+  <record>
+    <id>boot24-484519</id>
+    <url>https://www.boot24.com/segelboot/katamaran/eigenbau/484519/hochseekatamaran-mit-perkins-m30-motor.html</url>
+    <price>125000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/katamaran/eigenbau/484519/hochseekatamaran-mit-perkins-m30-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.31.2020 5:08:58 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-484519</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Eigenbau - Hochseekatamaran</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>125000</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>Eigenbau</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>Hochseekatamaran</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Katamaran</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Griechenland</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>11.80 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>5.72 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>0.75 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>Holz</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>1983</value>
+      </param>
+      <param>
+        <name>Brennstofftank</name>
+        <value>400.00 l</value>
+      </param>
+      <param>
+        <name>Frischwassertank</name>
+        <value>700.00 l</value>
+      </param>
+      <param>
+        <name>Motoren Anzahl</name>
+        <value>1</value>
+      </param>
+      <param>
+        <name>Motoren Modell</name>
+        <value>Perkins M30</value>
+      </param>
+      <param>
+        <name>Antrieb</name>
+        <value>Diesel</value>
+      </param>
+      <param>
+        <name>ges. Leistung</name>
+        <value>22 kW (30 PS)</value>
+      </param>
+      <param>
+        <name>Kabinen Anzahl</name>
+        <value>3</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>5</value>
+      </param>
+      <param>
+        <name>Nasszellen Anzahl</name>
+        <value>2</value>
+      </param>
+      <param>
+        <name>WC</name>
+        <value>WC elektrisch, Waschbecken, Dusche</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boot24-484519</id>
+    <url>https://www.boot24.com/segelboot/katamaran/eigenbau/484519/hochseekatamaran-mit-perkins-m30-motor.html</url>
+    <price>125000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/katamaran/eigenbau/484519/hochseekatamaran-mit-perkins-m30-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.29.2021 2:51:40 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-484519</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Katamaran · Baujahr: 1983 · gepflegt · Griechenland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Eigenbau / Hochseekatamaran</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>125000</value>
+      </param>
+    </content>
+  </record>
+</records>

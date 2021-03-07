@@ -1,0 +1,74 @@
+<records>
+  <record>
+    <id>boat24-430349</id>
+    <url>https://www.boat24.com/en/sailboats/asmus/asmus-hanseat-69/detail/430349/</url>
+    <price>23900</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/asmus/asmus-hanseat-69/detail/430349/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.15.2021 9:42:00 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-430349</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Germany » Ostsee » Ostsee</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Asmus Hanseat 69</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 23900</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boat24-430349</id>
+    <url>https://www.boat24.com/en/sailboats/asmus/asmus-hanseat-69/detail/430349/</url>
+    <price>23900</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/asmus/asmus-hanseat-69/detail/430349/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.20.2021 9:15:44 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-430349</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value></value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Asmus Hanseat 69</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 23900</value>
+      </param>
+    </content>
+  </record>
+</records>

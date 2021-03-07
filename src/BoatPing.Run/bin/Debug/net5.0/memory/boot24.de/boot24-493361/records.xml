@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-493361</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/jeanneau/493361/sun-legende-41-mit-vetus-motor.html</url>
+    <price>49000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/jeanneau/493361/sun-legende-41-mit-vetus-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.5.2021 9:23:35 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-493361</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1987 · gepflegt · Frankreich</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Jeanneau / SUN LEGENDE 41</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>49000</value>
+      </param>
+    </content>
+  </record>
+</records>

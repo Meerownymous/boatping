@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>scanboat-17370068</id>
+    <url>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-concorde-38-de-luxe-17370068</url>
+    <price>30410</price>
+    <source>scanboat.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>scanboat.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-concorde-38-de-luxe-17370068</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.27.2021 10:29:36 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>scanboat-17370068</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Country : Denmark</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Concorde 38 De Luxe</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>30410</value>
+      </param>
+    </content>
+  </record>
+</records>

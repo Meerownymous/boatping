@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/85825</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/85825</url>
+    <price>44500</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/85825</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.17.2021 8:58:10 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/85825</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Martigues, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>BAVARIA 35 EXCLUSIVE</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>44500 </value>
+      </param>
+    </content>
+  </record>
+</records>

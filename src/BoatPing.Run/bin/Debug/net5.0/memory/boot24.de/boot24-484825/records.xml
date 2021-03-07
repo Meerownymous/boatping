@@ -1,0 +1,142 @@
+<records>
+  <record>
+    <id>boot24-484825</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/hallberg-rassy/484825/rasmus-35-mit-volvo-penta-motor.html</url>
+    <price>39500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/hallberg-rassy/484825/rasmus-35-mit-volvo-penta-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>12.29.2020 9:04:18 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-484825</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>error</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Hallberg-Rassy - Rasmus 35</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>39500</value>
+      </param>
+      <param>
+        <name>Werft / Hersteller</name>
+        <value>Hallberg-Rassy</value>
+      </param>
+      <param>
+        <name>Modell</name>
+        <value>Hr-35 rasmus</value>
+      </param>
+      <param>
+        <name>Kategorie</name>
+        <value>Segelyacht</value>
+      </param>
+      <param>
+        <name>Liegeplatz</name>
+        <value>Eckernförde</value>
+      </param>
+      <param>
+        <name>Länge</name>
+        <value>10.50 m</value>
+      </param>
+      <param>
+        <name>Breite</name>
+        <value>3.05 m</value>
+      </param>
+      <param>
+        <name>Tiefgang</name>
+        <value>1.30 m</value>
+      </param>
+      <param>
+        <name>Material</name>
+        <value>GFK</value>
+      </param>
+      <param>
+        <name>Baujahr</name>
+        <value>1970</value>
+      </param>
+      <param>
+        <name>Gewicht</name>
+        <value>5300.00 kg</value>
+      </param>
+      <param>
+        <name>Motoren Anzahl</name>
+        <value>1</value>
+      </param>
+      <param>
+        <name>Motoren Modell</name>
+        <value>Volvo Penta</value>
+      </param>
+      <param>
+        <name>Antrieb</name>
+        <value>Diesel mit Innenborder</value>
+      </param>
+      <param>
+        <name>ges. Leistung</name>
+        <value>36 kW (50 PS)</value>
+      </param>
+      <param>
+        <name>Kabinen Anzahl</name>
+        <value>2</value>
+      </param>
+      <param>
+        <name>Kojen Anzahl</name>
+        <value>4</value>
+      </param>
+      <param>
+        <name>Zustand</name>
+        <value>gepflegt</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boot24-484825</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/hallberg-rassy/484825/rasmus-35-mit-volvo-penta-motor.html</url>
+    <price>39500</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/hallberg-rassy/484825/rasmus-35-mit-volvo-penta-motor.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.16.2021 10:41:57 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-484825</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1970 · gepflegt · Deutschland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Hallberg-Rassy / Rasmus 35</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>39500</value>
+      </param>
+    </content>
+  </record>
+</records>

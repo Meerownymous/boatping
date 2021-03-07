@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{ADF3EBC5-A389-4A03-9316-0147A0B61134}|Default">
+  <MonoDevelop.Ide.ItemProperties.BoatPing.Run PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/BoatPing.Core/Notification/Telegram/TgmNotifications.cs">
+    <Files>
+      <File FileName="src/BoatPing.Core/Notification/NewBoatNotification.cs" Line="1" Column="1" />
+      <File FileName="src/BoatPing.Core/Notification/HelloWorldNotification.cs" Line="38" Column="153" />
+      <File FileName="src/BoatPing.Core/Notification/Telegram/TgmNotifications.cs" Line="65" Column="2" />
+      <File FileName="src/BoatPing.Run/Program.cs" Line="124" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BoatPing" expanded="True">
+            <Node name="BoatPing.Core" expanded="True">
+              <Node name="Cfg" expanded="True" />
+              <Node name="Notification" expanded="True">
+                <Node name="Telegram" expanded="True">
+                  <Node name="TgmNotifications.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="BoatPing.Run" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="BoatPing" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>BoatPing.csproj</String>
+    <String>BoatPing.Core/BoatPing.Core.csproj</String>
+    <String>BoatPing.Run/BoatPing.Run.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BoatPing.Core PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/meerow/Development/BoatPing/BoatPing.Run/Program.cs" relfile="BoatPing.Run/Program.cs" line="131" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,74 @@
+<records>
+  <record>
+    <id>boat24-430279</id>
+    <url>https://www.boat24.com/en/sailboats/max-fun/max-fun-35/detail/430279/</url>
+    <price>49500</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/max-fun/max-fun-35/detail/430279/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.1.2021 6:26:34 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-430279</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Netherlands » onbekend</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Max Fun 35</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 49500</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boat24-430279</id>
+    <url>https://www.boat24.com/en/sailboats/max-fun/max-fun-35/detail/430279/</url>
+    <price>49500</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/max-fun/max-fun-35/detail/430279/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.20.2021 9:15:50 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-430279</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value></value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Max Fun 35</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 49500</value>
+      </param>
+    </content>
+  </record>
+</records>

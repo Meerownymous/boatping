@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>scanboat-17384921</id>
+    <url>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-feeling-326-di-17384921</url>
+    <price>33120</price>
+    <source>scanboat.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>scanboat.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-feeling-326-di-17384921</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.3.2021 3:22:15 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>scanboat-17384921</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Country : United Kingdom</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Feeling 326 DI</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>33120</value>
+      </param>
+    </content>
+  </record>
+</records>

@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/83145</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/83145</url>
+    <price>45000</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/83145</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.17.2021 8:58:11 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/83145</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Port-Saint-Louis-du-Rhône, Port-Saint-Louis-du-Rhône, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>CHANTIER D HERBIGNAC REVE D ANTILLE</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>45000 </value>
+      </param>
+    </content>
+  </record>
+</records>

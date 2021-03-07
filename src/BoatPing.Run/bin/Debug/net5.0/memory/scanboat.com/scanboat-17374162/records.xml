@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>scanboat-17374162</id>
+    <url>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-drabant-38-ny-nanni-21-hk-fra-2020-17374162</url>
+    <price>40410</price>
+    <source>scanboat.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>scanboat.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.scanboat.com/en/boat-market/boats/Sailing-boat-drabant-38-ny-nanni-21-hk-fra-2020-17374162</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.3.2021 3:22:14 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>scanboat-17374162</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Country : Denmark</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Drabant 38 NY Nanni 21 HK Fra 2020</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>40410</value>
+      </param>
+    </content>
+  </record>
+</records>

@@ -1,0 +1,74 @@
+<records>
+  <record>
+    <id>band-of-boats-/96447</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/96447</url>
+    <price>59000</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/96447</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>3.2.2021 11:10:55 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/96447</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Danemark, DANEMARK, Danemark</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>PEZZINI 44 RACER</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>59000 </value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>band-of-boats-/96447</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/96447</url>
+    <price>44000</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/96447</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>3.2.2021 5:56:05 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/96447</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Danemark, DANEMARK, Danemark</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>PEZZINI 44 RACER</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>44000 </value>
+      </param>
+    </content>
+  </record>
+</records>

@@ -1,0 +1,74 @@
+<records>
+  <record>
+    <id>boat24-449977</id>
+    <url>https://www.boat24.com/en/sailboats/emka/emka-36/detail/449977/</url>
+    <price>29500</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/emka/emka-36/detail/449977/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.15.2021 9:41:48 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-449977</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Germany » Rendsburg</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Emka 36</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 29500</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boat24-449977</id>
+    <url>https://www.boat24.com/en/sailboats/emka/emka-36/detail/449977/</url>
+    <price>29500</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/emka/emka-36/detail/449977/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.20.2021 9:15:29 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-449977</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value></value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Emka 36</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 29500</value>
+      </param>
+    </content>
+  </record>
+</records>

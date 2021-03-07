@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/95681</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/95681</url>
+    <price>47000</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/95681</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.8.2021 10:20:54 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/95681</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>SAINT CYPRIEN, France</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>AMPHORA</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>47000 </value>
+      </param>
+    </content>
+  </record>
+</records>

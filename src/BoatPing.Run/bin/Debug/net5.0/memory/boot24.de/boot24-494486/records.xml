@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>boot24-494486</id>
+    <url>https://www.boot24.com/segelboot/segelyacht/van-de-stadt/494486/trintella-iii.html</url>
+    <price>25000</price>
+    <source>boot24.de</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boot24.de</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boot24.com/segelboot/segelyacht/van-de-stadt/494486/trintella-iii.html</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>2.19.2021 5:54:17 AM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boot24-494486</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Segelyacht · Baujahr: 1973 · gepflegt · Niederlande</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Van De Stadt (NL) / Trintella III</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>25000</value>
+      </param>
+    </content>
+  </record>
+</records>

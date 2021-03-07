@@ -1,0 +1,38 @@
+<records>
+  <record>
+    <id>band-of-boats-/78569</id>
+    <url>https://www.bandofboats.com/de/boot-kaufen/78569</url>
+    <price>53000</price>
+    <source>band-of-boats.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>band-of-boats.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.bandofboats.com/de/boot-kaufen/78569</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.17.2021 8:57:19 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>band-of-boats-/78569</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>onbekend, Pays-Bas</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>MAX FUN 35</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value>53000 </value>
+      </param>
+    </content>
+  </record>
+</records>

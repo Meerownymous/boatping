@@ -1,0 +1,74 @@
+<records>
+  <record>
+    <id>boat24-445578</id>
+    <url>https://www.boat24.com/en/sailboats/nimbus/nimbus-43/detail/445578/</url>
+    <price>57200</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/nimbus/nimbus-43/detail/445578/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.1.2021 6:26:38 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-445578</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value>Denmark » Østjylland</value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Nimbus 43</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 57200</value>
+      </param>
+    </content>
+  </record>
+  <record>
+    <id>boat24-445578</id>
+    <url>https://www.boat24.com/en/sailboats/nimbus/nimbus-43/detail/445578/</url>
+    <price>57200</price>
+    <source>boat24.com</source>
+    <content>
+      <param>
+        <name>source</name>
+        <value>boat24.com</value>
+      </param>
+      <param>
+        <name>url</name>
+        <value>https://www.boat24.com/en/sailboats/nimbus/nimbus-43/detail/445578/</value>
+      </param>
+      <param>
+        <name>timestamp</name>
+        <value>1.20.2021 9:15:34 PM</value>
+      </param>
+      <param>
+        <name>id</name>
+        <value>boat24-445578</value>
+      </param>
+      <param>
+        <name>country</name>
+        <value></value>
+      </param>
+      <param>
+        <name>title</name>
+        <value>Nimbus 43</value>
+      </param>
+      <param>
+        <name>price</name>
+        <value> 57200</value>
+      </param>
+    </content>
+  </record>
+</records>
