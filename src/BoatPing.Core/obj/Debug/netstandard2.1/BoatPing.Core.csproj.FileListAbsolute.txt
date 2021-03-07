@@ -1,9 +1,0 @@
-/Users/meerow/Development/BoatPing/BoatPing.Core/bin/Debug/netstandard2.1/BoatPing.Core.deps.json
-/Users/meerow/Development/BoatPing/BoatPing.Core/bin/Debug/netstandard2.1/BoatPing.Core.dll
-/Users/meerow/Development/BoatPing/BoatPing.Core/bin/Debug/netstandard2.1/BoatPing.Core.pdb
-/Users/meerow/Development/BoatPing/BoatPing.Core/obj/Debug/netstandard2.1/BoatPing.Core.csprojAssemblyReference.cache
-/Users/meerow/Development/BoatPing/BoatPing.Core/obj/Debug/netstandard2.1/BoatPing.Core.AssemblyInfoInputs.cache
-/Users/meerow/Development/BoatPing/BoatPing.Core/obj/Debug/netstandard2.1/BoatPing.Core.AssemblyInfo.cs
-/Users/meerow/Development/BoatPing/BoatPing.Core/obj/Debug/netstandard2.1/BoatPing.Core.csproj.CoreCompileInputs.cache
-/Users/meerow/Development/BoatPing/BoatPing.Core/obj/Debug/netstandard2.1/BoatPing.Core.dll
-/Users/meerow/Development/BoatPing/BoatPing.Core/obj/Debug/netstandard2.1/BoatPing.Core.pdb
