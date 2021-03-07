@@ -38,5 +38,10 @@ namespace BoatPing.Core.Ad.BandOfBoats
             false
         )
         { }
+
+        public override string ToString()
+        {
+            return "www.bandofboats.com";
+        }
     }
 }

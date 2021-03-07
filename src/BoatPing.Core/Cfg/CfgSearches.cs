@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using Yaapii.Atoms.Enumerable;
+using Yaapii.Atoms.IO;
 
 namespace BoatPing.Core
 {
@@ -20,40 +22,54 @@ namespace BoatPing.Core
         {
             var result = new List<string>();
             var lines = File.ReadAllLines(searchConfig.AbsolutePath);
-            foreach(var line in lines)
+            foreach (var line in lines)
             {
                 try
                 {
-                    if(!line.StartsWith(COMMENT_CHAR) && !line.ToLower().StartsWith(PRICE_PREFIX))
+                    if (!String.IsNullOrEmpty(line) && !line.StartsWith(COMMENT_CHAR) && !line.ToLower().StartsWith(PRICE_PREFIX))
                     {
-                        if(Uri.IsWellFormedUriString(line, UriKind.Absolute))
+                        if (Uri.IsWellFormedUriString(line, UriKind.Absolute))
                         {
-                            foreach (var platform in knownPlatforms)
+                            var supported = false;
+                            foreach (var platform in
+                                new Mapped<string, string>(
+                                    pl => pl.ToLower(),
+                                    knownPlatforms
+                                )
+                            )
                             {
-                                if (line.ToLower().Contains(platform))
+                                if (line.Contains(platform.ToLower()))
                                 {
-                                    result.Add(line);
+                                    supported = true;
+                                    break;
                                 }
-                                else
-                                {
-                                    onError($"This page is not supported: {line}");
-                                }
+                            }
+
+                            if (!supported)
+                            {
+                                onError($"This page is not supported: {line}");
+                            }
+                            else
+                            {
+                                result.Add(line);
                             }
                         }
                         else
                         {
-                            onError($"Invalid Url: {line}");
+                            if (line.StartsWith("http"))
+                            {
+                                onError($"Invalid Url: {line}");
+                            }
                         }
                     }
-
                 }
-                catch(Exception ex)
-                {
-                    onError($"Cannot understand search {line}: {ex.Message}");
-                }
+                catch (Exception ex)
+            {
+                onError($"Cannot understand search {line}: {ex.Message}");
             }
+        }
             return result;
-        })
+    })
         { }
     }
 }

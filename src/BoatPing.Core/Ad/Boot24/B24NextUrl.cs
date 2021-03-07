@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Web;
 using Yaapii.Atoms.Scalar;
 using Yaapii.Atoms.Text;
+using System.Linq;
 
 namespace BoatPing.Core.Boot24
 {
@@ -16,31 +18,35 @@ namespace BoatPing.Core.Boot24
         /// </summary>
         public B24NextUrl(Uri origin) : base(() =>
         {
-            var url = origin.AbsoluteUri;
-            var start = url.IndexOf("segelboot/") + "segelboot/".Length;
-            var end = url.IndexOf("#");
-
-            var urlHead = url.Substring(0, start);
-            var urlTail = url.Substring(end, url.Length - end);
-
-            var pageSegment =
-                new Replaced(
-                    new Replaced(
-                        new Replaced(
-                            new TextOf(url),
-                            urlHead, ""
-                        ), urlTail, ""
-                    ), "?page=", ""
-                ).AsString();
-
-            if (String.IsNullOrEmpty(pageSegment))
+            var path = origin;
+            if (origin.AbsoluteUri.IndexOf("?") > 0)
             {
-                pageSegment = "1";
+                path = new Uri(origin.AbsoluteUri.Substring(0, origin.AbsoluteUri.IndexOf("?")));
             }
-            var number = Convert.ToInt32(pageSegment);
-            var newUrl = $"{urlHead}?page={number + 1}{urlTail}";
+            var query = HttpUtility.ParseQueryString(origin.Query);
 
-            return new Uri(newUrl);
+            var page = 1;
+            if (query.AllKeys.Contains("page"))
+            {
+                page = Convert.ToInt32(query.Get("page"));
+            }
+            page++;
+            query.Set("page", page.ToString());
+
+            foreach (var key in query.AllKeys)
+            {
+                var newValue = query.Get(key);
+                query.Remove(key);
+                query.Set(HttpUtility.UrlEncode(key), HttpUtility.UrlEncode(newValue));
+            }
+
+            var uriBuilder = new UriBuilder(path);
+            uriBuilder.Query = query.ToString();
+            uriBuilder.Fragment = origin.Fragment;
+
+            var newUri = uriBuilder.Uri;
+
+            return newUri;
         })
         { }
     }

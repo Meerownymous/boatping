@@ -37,5 +37,10 @@ namespace BoatPing.Core.Ad.Boat24
             false
         )
         { }
+
+        public override string ToString()
+        {
+            return "www.boat24.de";
+        }
     }
 }

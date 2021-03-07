@@ -4,7 +4,7 @@ using OpenQA.Selenium;
 using Xunit;
 using Yaapii.Atoms.Scalar;
 
-namespace BoatPing.Core.Boot24
+namespace BoatPing.Core.Boot24.Test
 {
     public sealed class B24AdTests
     {

@@ -52,6 +52,7 @@ namespace BoatPing.Core.Ad.Scanboat
             if (page.FindElements(By.Id("modalPopupAdClose")).Count > 0)
             {
                 page.FindElement(By.Id("modalPopupAdClose")).Click();
+                System.Threading.Thread.Sleep(200);
             }
             return page;
         })

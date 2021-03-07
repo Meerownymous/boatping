@@ -1,6 +1,7 @@
 ﻿using System;
+using System.Linq;
+using System.Web;
 using Yaapii.Atoms.Scalar;
-using Yaapii.Atoms.Text;
 
 namespace BoatPing.Core.Ad.BandOfBoats
 {
@@ -16,27 +17,30 @@ namespace BoatPing.Core.Ad.BandOfBoats
         /// </summary>
         public BobNextUrl(Uri origin) : base(() =>
         {
-            var url = origin.AbsoluteUri;
-            var start = url.IndexOf("page=");
-            var end = url.Substring(start).IndexOf("&") + start;
+            var path = new Uri(origin.AbsoluteUri.Substring(0, origin.AbsoluteUri.IndexOf("?")));
+            var query = HttpUtility.ParseQueryString(origin.Query);
 
-            var urlHead = url.Substring(0, start);
-            var urlTail = url.Substring(end, url.Length - end);
+            var page = 1;
+            if(query.AllKeys.Contains("page"))
+            {
+                page = Convert.ToInt32(query.Get("page"));
+            }
+            page++;
+            query.Set("page", page.ToString());
 
-            var pageSegment =
-                new Replaced(
-                    new Replaced(
-                        new Replaced(
-                            new TextOf(url),
-                            urlHead, ""
-                        ), urlTail, ""
-                    ), "page=", ""
-                ).AsString();
+            foreach(var key in query.AllKeys)
+            {
+                var newValue = query.Get(key);
+                query.Remove(key);
+                query.Set(HttpUtility.UrlEncode(key), HttpUtility.UrlEncode(newValue));
+                
+            }
 
-            var number = Convert.ToInt32(pageSegment);
-            var newUrl = $"{urlHead}page={number+1}{urlTail}";
+            var uriBuilder = new UriBuilder(path);
+            uriBuilder.Query = query.ToString();
+            var newUri = uriBuilder.Uri;
 
-            return new Uri(newUrl);
+            return newUri;
         })
         { }
     }

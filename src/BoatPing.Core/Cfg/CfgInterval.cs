@@ -36,7 +36,7 @@ namespace BoatPing.Core
                             ).AsString()
                         );  
                     }
-                    result = new FirstOf<string>(lines).Value();
+                    result = new FirstOf<string>(lines).Value().Trim();
                 }
                 catch(Exception ex)
                 {

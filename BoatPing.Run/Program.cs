@@ -8,7 +8,9 @@ using BoatPing.Core.Ad.Scanboat;
 using BoatPing.Core.LogBook;
 using BoatPing.Core.Notification;
 using BoatPing.Core.Notification.Telegram;
+using Microsoft.VisualBasic;
 using Yaapii.Atoms.Enumerable;
+using Yaapii.Atoms.List;
 using Yaapii.Atoms.Map;
 
 namespace BoatPing.Run
@@ -18,42 +20,64 @@ namespace BoatPing.Run
         static void Main(string[] args)
         {
             var path = Environment.CurrentDirectory;
+
+            var cfgSearches = new Uri(Path.Combine(path, "memory", "searches.cfg"));
+            var cfgBot = new Uri(Path.Combine(path, "memory", "bot.cfg"));
+
             var logbook = new FileLogBook(Path.Combine(path, "memory"));
             var fileNotifications = new FileNotifications(Path.Combine(path, "memory"));
             var telegramNotifications =
                 new TgmNotifications(
                     new CfgBot(
-                        new Uri(Path.Combine(path, "bot.cfg")),
-                        error => LogError(error)
+                        new Uri(Path.Combine(path, "memory", "bot.cfg")),
+                        error => LogError(path, $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} bot.cfg:{error}")
                     )
+                );
+            var searches =
+                new SourcesAds(
+                    new CfgSearches(
+                        new Uri(Path.Combine(path, "memory", "searches.cfg")),
+                        new ListOf<string>("bandofboats.com", "boot24.com", "boat24.com", "scanboat.com"),
+                        (error) => LogError(path, $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} {error}")
+                    ),
+                    new CfgPrice(new Uri(Path.Combine(path, "memory", "searches.cfg")), true, error => LogError(path, $"searches.cfg: {error}")).AsInt(),
+                    new CfgPrice(new Uri(Path.Combine(path, "memory", "searches.cfg")), false, error => LogError(path, $"searches.cfg: {error}")).AsInt()
                 );
 
             while (true)
             {
                 try
                 {
-                    var ads = 0;
-                    var newBoats = 0;
-                    var priceChanges = 0;
-                    var notifications = 0;
+                    var stats = new Dictionary<string, int>();
+                    stats["notifications"] = 0;
+                    stats["price-changes"] = 0;
+                    stats["new-boats"] = 0;
+                    stats["overall-ads"] = 0;
+
                     var stopwatch = new Stopwatch();
                     stopwatch.Start();
-                    foreach (var source in Sources())
+                    foreach (var source in searches)
                     {
+                        if (!stats.ContainsKey($"source.{source.ToString()}"))
+                        {
+                            stats[$"source.{source.ToString()}"] = 0;
+                        }
                         try
                         {
-                            foreach (var ad in source.Value)
+
+                            foreach (var ad in source)
                             {
-                                ads++;
+                                stats["overall-ads"]++;
+                                stats[$"source.{source.ToString()}"]++;
                                 try
                                 {
                                     if (!logbook.Contains(ad))
                                     {
-                                        notifications++;
+                                        stats["notifications"]++;
                                         Thread.Sleep(new TimeSpan(0, 0, 1));
                                         telegramNotifications.Post(new NewBoatNotification(ad));
                                         fileNotifications.Post(new NewBoatNotification(ad));
-                                        newBoats++;
+                                        stats["new-boats"]++;
                                     }
                                     else
                                     {
@@ -65,7 +89,7 @@ namespace BoatPing.Run
                                         {
                                             telegramNotifications.Post(new PriceChangedNotification(ad, lastAd));
                                             fileNotifications.Post(new PriceChangedNotification(ad, lastAd));
-                                            priceChanges++;
+                                            stats["price-changes"]++;
                                         }
 
                                     }
@@ -74,67 +98,39 @@ namespace BoatPing.Run
                                 catch (Exception ex)
                                 {
                                     LogError(
-                                        $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} error scraping {ad.Url()}",
+                                        path,
+                                        $"error scraping {ad.Url()}",
                                         ex.ToString()
                                     );
                                 }
                             }
                         }
-                        catch(Exception ex)
+                        catch (Exception ex)
                         {
                             LogError(
-                                $"error while scraping {source.Key} {source.Value}",
+                                path,
+                                $"error while scraping {source}",
                                 ex.ToString()
                             );
                         }
                     }
                     stopwatch.Stop();
-                    LogError($"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} Scraped {ads} ads. Found {newBoats} new boats and {priceChanges} price changes in {stopwatch.Elapsed.TotalSeconds}s");
 
+                    LogStats(path, stats);
                 }
                 catch (Exception ex)
                 {
-                    File.AppendAllLines(
-                        Path.Combine(path, "memory", "error.log"),
-                        new ManyOf(
-                            "Error while going through searches:",
-                            ex.ToString()
-                        )
+                    LogError(
+                        path,
+                        "Error while going through searches:",
+                        ex.ToString()
+
                     );
                 }
-                System.Threading.Thread.Sleep(new TimeSpan(0, 30, 0));
+                System.Threading.Thread.Sleep(
+                    new CfgInterval(cfgBot, error => LogError(path, error)).Value()
+                );
             }
-        }
-
-        private static IDictionary<string,IEnumerable<IAd>> Sources()
-        {
-            return
-                new MapOf<IEnumerable<IAd>>(
-                    //new KvpOf<IEnumerable<IAd>>("band of boats DE", new BobAds("https://www.bandofboats.com/de/boot-kaufen?ref_nature%5B%5D=sailing_boat&page=1&ref_category%5B%5D=9&country%5B%5D=DE&price_min=20000&price_max=60000&year_min=1970&year_max=&loa_min=10&loa_max=14&beam_min=&beam_max=&horse_power_min=&horse_power_max=")),
-                    //new KvpOf<IEnumerable<IAd>>("band of boats NL", new BobAds("https://www.bandofboats.com/de/boot-kaufen?ref_nature%5B%5D=sailing_boat&page=1&ref_category%5B%5D=9&country%5B%5D=NL&price_min=20000&price_max=60000&year_min=1970&year_max=&loa_min=10&loa_max=14beam_min=&beam_max=&horse_power_min=&horse_power_max=")),
-                    //new KvpOf<IEnumerable<IAd>>("band of boats BE", new BobAds("https://www.bandofboats.com/de/boot-kaufen?ref_nature%5B%5D=sailing_boat&page=1&ref_category%5B%5D=9&country%5B%5D=BE&price_min=20000&price_max=60000&year_min=1970&year_max=&loa_min=10&loa_max=14&beam_min=&beam_max=&horse_power_min=&horse_power_max=")),
-                    //new KvpOf<IEnumerable<IAd>>("band of boats FR", new BobAds("https://www.bandofboats.com/de/boot-kaufen?ref_nature%5B%5D=sailing_boat&page=1&ref_category%5B%5D=9&country%5B%5D=FR&price_min=20000&price_max=60000&year_min=1970&year_max=&loa_min=10&loa_max=14&beam_min=&beam_max=&horse_power_min=&horse_power_max=")),
-                    //new KvpOf<IEnumerable<IAd>>("band of boats DK", new BobAds("https://www.bandofboats.com/de/boot-kaufen?ref_nature%5B%5D=sailing_boat&page=1&ref_category%5B%5D=9&country%5B%5D=DK&price_min=20000&price_max=60000&year_min=1970&year_max=&loa_min=10&loa_max=14&beam_min=&beam_max=&horse_power_min=&horse_power_max=")),
-                    //new KvpOf<IEnumerable<IAd>>("band of boats UK", new BobAds("https://www.bandofboats.com/de/boot-kaufen?ref_nature%5B%5D=sailing_boat&page=1&ref_category%5B%5D=9&country%5B%5D=GB&price_min=20000&price_max=60000&year_min=1970&year_max=&loa_min=10&loa_max=14&beam_min=&beam_max=&horse_power_min=&horse_power_max=")),
-                    //new KvpOf<IEnumerable<IAd>>("band of boats NW", new BobAds("https://www.bandofboats.com/de/boot-kaufen?ref_nature%5B%5D=sailing_boat&page=1&ref_category%5B%5D=9&country%5B%5D=NO&price_min=20000&price_max=60000&year_min=1970&year_max=&loa_min=10&loa_max=14&beam_min=&beam_max=&horse_power_min=&horse_power_max=")),
-                    //new KvpOf<IEnumerable<IAd>>("band of boats SE", new BobAds("https://www.bandofboats.com/de/boot-kaufen?ref_nature%5B%5D=sailing_boat&page=1&ref_category%5B%5D=9&country%5B%5D=SE&price_min=20000&price_max=60000&year_min=1970&year_max=&loa_min=10&loa_max=14&beam_min=&beam_max=&horse_power_min=&horse_power_max=")),
-                    new KvpOf<IEnumerable<IAd>>("scanboat 1970-1985", new ScbAds(new ScbSearch19701985(), 0, 59000)),
-                    new KvpOf<IEnumerable<IAd>>("scanboat 1985-1995", new ScbAds(new ScbSearch19851995(), 0, 59000)),
-                    new KvpOf<IEnumerable<IAd>>("scanboat 1995-2000", new ScbAds(new ScbSearch19952000(), 0, 59000)),
-                    new KvpOf<IEnumerable<IAd>>("scanboat 2000-2015", new ScbAds(new ScbSearch20002015(), 0, 59000))
-                    //new KvpOf<IEnumerable<IAd>>("boat24 DE FR NL DK BE", new BoaAds(new BoaDefaultSearch())),
-                    //new KvpOf<IEnumerable<IAd>>("boat24 BE SW NW UK", new BoaAds("https://www.boat24.com/en/sailboats/?src=&typ%5B%5D=230&page=0&cem=&whr=EUR&prs_min=20000&prs_max=59000&lge_min=10&lge_max=14&bre_min=&bre_max=&tie_min=&tie_max=&gew_min=&gew_max=&jhr_min=1970&jhr_max=&lei_min=&lei_max=&ant=&rgo%5B%5D=11&rgo%5B%5D=49&rgo%5B%5D=43&rgo%5B%5D=24&kie=&mob=&per_min=&per_max=&cab_min=&cab_max=&ber_min=&ber_max=&hdr_min=&hdr_max=&sort=rand")),
-                    //new KvpOf<IEnumerable<IAd>>("boot24 DE", new B24Ads(new B24DefaultSearch())),
-                    //new KvpOf<IEnumerable<IAd>>("boot24 NL", new B24Ads("https://www.boot24.com/segelboot/#pab=20000&pbis=58000&jahrvon=1970&lmin=10&lmax=13&land=c25")),
-                    //new KvpOf<IEnumerable<IAd>>("boot24 FR", new B24Ads("https://www.boot24.com/segelboot/#pab=20000&pbis=58000&jahrvon=1970&lmin=10&lmax=13&land=c10")),
-                    //new KvpOf<IEnumerable<IAd>>("boot24 GB", new B24Ads("https://www.boot24.com/segelboot/#pab=20000&pbis=58000&jahrvon=1970&lmin=10&lmax=13&land=c39")),
-                    //new KvpOf<IEnumerable<IAd>>("boot24 PL", new B24Ads("https://www.boot24.com/segelboot/#pab=20000&pbis=58000&jahrvon=1970&lmin=10&lmax=13&land=c27")),
-                    //new KvpOf<IEnumerable<IAd>>("boot24 BE", new B24Ads("https://www.boot24.com/segelboot/#pab=20000&pbis=58000&jahrvon=1970&lmin=10&lmax=13&land=c5")),
-                    //new KvpOf<IEnumerable<IAd>>("boot24 DK", new B24Ads("https://www.boot24.com/segelboot/#pab=20000&pbis=58000&jahrvon=1970&lmin=10&lmax=13&land=c8")),
-                    //new KvpOf<IEnumerable<IAd>>("boot24 IR", new B24Ads("https://www.boot24.com/segelboot/#pab=20000&pbis=58000&jahrvon=1970&lmin=10&lmax=13&land=c13")),
-                    //new KvpOf<IEnumerable<IAd>>("boot24 NW", new B24Ads("https://www.boot24.com/segelboot/#pab=20000&pbis=58000&jahrvon=1970&lmin=10&lmax=13&land=c6")),
-                    //new KvpOf<IEnumerable<IAd>>("boot24 SW", new B24Ads("https://www.boot24.com/segelboot/#pab=20000&pbis=58000&jahrvon=1970&lmin=10&lmax=13&land=c31"))
-            );
         }
 
         private static bool PriceChanged(IAd leftAd, IAd rightAd, int minPercentage)
@@ -143,11 +139,56 @@ namespace BoatPing.Run
             return change / leftAd.Price() * 100 > minPercentage;
         }
 
+        private static void LogStats(string path, IDictionary<string, int> stats)
+        {
+            var message =
+                $"Search completed. Overall ads {stats["overall-ads"]}, new boats {stats["new-boats"]}, price changes {stats["price-changes"]}";
+
+            File.AppendAllLines(
+                Path.Combine(path, "memory", "stats.log"),
+                new Yaapii.Atoms.Enumerable.Mapped<string, string>(
+                    msg => $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} {msg}",
+                    new Yaapii.Atoms.Enumerable.Joined<string>(
+                        new ManyOf(message),
+                        new Yaapii.Atoms.Enumerable.Mapped<string,string>(
+                            key => $"  {key.Replace("source.", "")}: {stats[key]} active ads",
+                            new Filtered<string>(
+                                key => key.StartsWith("source."),
+                                stats.Keys
+                            )
+                        ) 
+                    )
+                )
+            );
+        }
+
         private static void LogError(string path, params string[] messages)
         {
             File.AppendAllLines(
-                Path.Combine(path, "error.log"),
-                new ManyOf(messages)
+                Path.Combine(path, "memory", "error.log"),
+                new Yaapii.Atoms.Enumerable.Mapped<string, string>(
+                    msg => $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} {msg}",
+                    new ManyOf(messages)
+                )
+            );
+        }
+
+        private static void LogError(string path, Exception ex, params string[] messages)
+        {
+            File.AppendAllLines(
+                Path.Combine(path, "memory", "error.log"),
+                new Yaapii.Atoms.Enumerable.Mapped<string, string>(
+                    msg => $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} {msg}",
+                    messages
+                )
+            );
+
+            File.AppendAllLines(
+                Path.Combine(path, "memory", "error.log"),
+                new Yaapii.Atoms.Enumerable.Mapped<string, string>(
+                    msg => $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} {msg}",
+                    new ManyOf(ex.ToString())
+                )
             );
         }
     }

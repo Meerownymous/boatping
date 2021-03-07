@@ -41,5 +41,10 @@ namespace BoatPing.Core.Ad.Scanboat
             false
         )
         { }
+
+        public override string ToString()
+        {
+            return "www.scanboat.com";
+        }
     }
 }

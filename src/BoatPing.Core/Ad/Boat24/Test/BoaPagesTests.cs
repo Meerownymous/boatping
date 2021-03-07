@@ -4,7 +4,7 @@ using OpenQA.Selenium.Chrome;
 using Xunit;
 using Yaapii.Atoms.Enumerable;
 
-namespace BoatPing.Core.Ad.Boat24
+namespace BoatPing.Core.Ad.Boat24.Test
 {
     public sealed class BoaPagesTests
     {

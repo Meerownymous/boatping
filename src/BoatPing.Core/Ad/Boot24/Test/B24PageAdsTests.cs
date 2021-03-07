@@ -3,7 +3,7 @@ using BoatPing.Core.Page;
 using OpenQA.Selenium.Chrome;
 using Xunit;
 
-namespace BoatPing.Core.Boot24
+namespace BoatPing.Core.Boot24.Test
 {
     public sealed class B24PageAdsTests
     {
