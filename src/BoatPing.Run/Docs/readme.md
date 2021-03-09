@@ -23,7 +23,8 @@ Dein Bot merkt, wenn sich bei einem bekannten Boot der Preis ändern. Dann bekom
 
 ![price-change](./images/price-change.jpeg)
 
-
+# Voraussetzungen
+Du must Chrome in Version 89 oder niedriger installiert haben.
 
 # Los gehts
 
