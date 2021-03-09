@@ -53,6 +53,7 @@ namespace BoatPing.Core.Page
             {
                 var retries = 5;
                 var success = false;
+                Exception ex = new Exception();
                 for (var tryCount = 0; tryCount < retries; tryCount++)
                 {
                     try
@@ -62,14 +63,14 @@ namespace BoatPing.Core.Page
                         success = true;
                         break;
                     }
-                    catch (Exception ex)
+                    catch (Exception error)
                     {
-                        
+                        ex = error;
                     }
                 }
                 if(!success)
                 {
-                    throw new ApplicationException($"page_load_timeout:{url().AbsoluteUri.ToString()}");
+                    throw new ApplicationException($"cannot load page: {ex.ToString()} - {url().AbsoluteUri.ToString()}");
                 }
 
                 return new PgStable(page, maxWait);

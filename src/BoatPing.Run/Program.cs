@@ -157,52 +157,49 @@ namespace BoatPing.Run
             var message =
                 $"Search completed. Overall ads {stats["overall-ads"]}, new boats {stats["new-boats"]}, price changes {stats["price-changes"]}";
 
-            File.AppendAllLines(
-                Path.Combine(path, "memory", "stats.log"),
+            var logLines =
                 new Yaapii.Atoms.Enumerable.Mapped<string, string>(
                     msg => $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} {msg}",
                     new Yaapii.Atoms.Enumerable.Joined<string>(
                         new ManyOf(message),
-                        new Yaapii.Atoms.Enumerable.Mapped<string,string>(
+                        new Yaapii.Atoms.Enumerable.Mapped<string, string>(
                             key => $"  {key.Replace("source.", "")}: {stats[key]} active ads",
                             new Filtered<string>(
                                 key => key.StartsWith("source."),
                                 stats.Keys
                             )
-                        ) 
+                        )
                     )
-                )
+                );
+
+            File.AppendAllLines(
+                Path.Combine(path, "memory", "stats.log"),
+                logLines
             );
+
+            foreach (var line in logLines)
+            {
+                Console.WriteLine(line);
+            }
         }
 
         private static void LogError(string path, params string[] messages)
         {
-            File.AppendAllLines(
-                Path.Combine(path, "memory", "error.log"),
+            var logLines =
                 new Yaapii.Atoms.Enumerable.Mapped<string, string>(
                     msg => $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} {msg}",
                     new ManyOf(messages)
-                )
-            );
-        }
-
-        private static void LogError(string path, Exception ex, params string[] messages)
-        {
-            File.AppendAllLines(
-                Path.Combine(path, "memory", "error.log"),
-                new Yaapii.Atoms.Enumerable.Mapped<string, string>(
-                    msg => $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} {msg}",
-                    messages
-                )
-            );
+                );
 
             File.AppendAllLines(
                 Path.Combine(path, "memory", "error.log"),
-                new Yaapii.Atoms.Enumerable.Mapped<string, string>(
-                    msg => $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} {msg}",
-                    new ManyOf(ex.ToString())
-                )
+                logLines
             );
+
+            foreach (var line in logLines)
+            {
+                Console.WriteLine(line);
+            }
         }
     }
 }
