@@ -34,8 +34,8 @@ namespace BoatPing.Run
             var searches =
                 new SourcesAds(
                     new CfgSearches(
-                        new Uri(Path.Combine(path, "memory", "searches.cfg")),
-                        new ListOf<string>("bandofboats.com", "boot24.com", "boat24.com", "scanboat.com"),
+                        searchConfig: new Uri(Path.Combine(path, "memory", "searches.cfg")),
+                        knownPlatforms: new ListOf<string>("yachtall.com", "bandofboats.com", "boot24.com", "boat24.com", "scanboat.com"),
                         (error) => LogError(path, $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} {error}")
                     ),
                     new CfgPrice(new Uri(Path.Combine(path, "memory", "searches.cfg")), true, error => LogError(path, $"searches.cfg: {error}")).AsInt(),
@@ -157,49 +157,52 @@ namespace BoatPing.Run
             var message =
                 $"Search completed. Overall ads {stats["overall-ads"]}, new boats {stats["new-boats"]}, price changes {stats["price-changes"]}";
 
-            var logLines =
+            File.AppendAllLines(
+                Path.Combine(path, "memory", "stats.log"),
                 new Yaapii.Atoms.Enumerable.Mapped<string, string>(
                     msg => $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} {msg}",
                     new Yaapii.Atoms.Enumerable.Joined<string>(
                         new ManyOf(message),
-                        new Yaapii.Atoms.Enumerable.Mapped<string, string>(
+                        new Yaapii.Atoms.Enumerable.Mapped<string,string>(
                             key => $"  {key.Replace("source.", "")}: {stats[key]} active ads",
                             new Filtered<string>(
                                 key => key.StartsWith("source."),
                                 stats.Keys
                             )
-                        )
+                        ) 
                     )
-                );
-
-            File.AppendAllLines(
-                Path.Combine(path, "memory", "stats.log"),
-                logLines
+                )
             );
-
-            foreach (var line in logLines)
-            {
-                Console.WriteLine(line);
-            }
         }
 
         private static void LogError(string path, params string[] messages)
         {
-            var logLines =
+            File.AppendAllLines(
+                Path.Combine(path, "memory", "error.log"),
                 new Yaapii.Atoms.Enumerable.Mapped<string, string>(
                     msg => $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} {msg}",
                     new ManyOf(messages)
-                );
+                )
+            );
+        }
+
+        private static void LogError(string path, Exception ex, params string[] messages)
+        {
+            File.AppendAllLines(
+                Path.Combine(path, "memory", "error.log"),
+                new Yaapii.Atoms.Enumerable.Mapped<string, string>(
+                    msg => $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} {msg}",
+                    messages
+                )
+            );
 
             File.AppendAllLines(
                 Path.Combine(path, "memory", "error.log"),
-                logLines
+                new Yaapii.Atoms.Enumerable.Mapped<string, string>(
+                    msg => $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} {msg}",
+                    new ManyOf(ex.ToString())
+                )
             );
-
-            foreach (var line in logLines)
-            {
-                Console.WriteLine(line);
-            }
         }
     }
 }

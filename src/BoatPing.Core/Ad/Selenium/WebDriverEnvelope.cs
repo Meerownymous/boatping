@@ -30,6 +30,7 @@ namespace BoatPing.Core.Page
 
         public string Title => this.webDriver.Value().Title;
 
+
         public string PageSource => this.webDriver.Value().PageSource;
 
         public string CurrentWindowHandle => this.webDriver.Value().CurrentWindowHandle;

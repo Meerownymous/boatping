@@ -1,43 +1,42 @@
 ﻿using System;
 using System.Collections.Generic;
 using BoatPing.Core.Ad.Selenium;
-using BoatPing.Core.Boot24;
 using OpenQA.Selenium;
 using Yaapii.Atoms;
 using Yaapii.Atoms.Enumerable;
 
-namespace BoatPing.Core.Ad.Boat24
+namespace BoatPing.Core.Ad.YachtAll
 {
     /// <summary>
-    /// All boat24 pages in a search.
+    /// All yachtall pages in a search.
     /// </summary>
-    public class BoaPages : ManyEnvelope<Uri>
+    public class YaaPages : ManyEnvelope<Uri>
     {
         /// <summary>
-        /// All boat24 pages in a search.
+        /// All yachtall pages in a search.
         /// </summary>
-        public BoaPages(IText startUrl) : this(() => startUrl.AsString())
+        public YaaPages(IText startUrl) : this(() => startUrl.AsString())
         { }
 
         /// <summary>
-        /// All boat24 pages in a search.
+        /// All yachtall pages in a search.
         /// </summary>
-        public BoaPages(string startUrl) : this(() => startUrl)
+        public YaaPages(string startUrl) : this(() => startUrl)
         { }
 
         /// <summary>
-        /// All boat24 pages in a search.
+        /// All yachtall pages in a search.
         /// </summary>
-        public BoaPages(Func<string> startUrl) : base(() =>
+        public YaaPages(Func<string> startUrl) : base(() =>
         {
             var url = startUrl();
-            using (var page = new BoaPage(startUrl, new ChromeHeadless()))
+            using (var page = new YaaPage(startUrl, new ChromeHeadless()))
             {
                 IList<Uri> result = new List<Uri>();
                 var current = new Uri(url);
                 result.Add(current);
 
-                var pageNumbers = page.FindElements(By.ClassName("pagination__page"));
+                var pageNumbers = page.FindElements(By.ClassName("paging-link"));
                 if (pageNumbers.Count > 0)
                 {
                     var lastPage =
@@ -46,7 +45,7 @@ namespace BoatPing.Core.Ad.Boat24
                                 new Mapped<IWebElement, int>(
                                     elem =>
                                     {
-                                        var result = -1;
+                                        int result = -1;
                                         int.TryParse(elem.Text, out result);
                                         return result;
                                     },
@@ -55,10 +54,9 @@ namespace BoatPing.Core.Ad.Boat24
                             )
                         ).Value();
 
-                    
                     for (var pageNumber = 2; pageNumber <= lastPage; pageNumber++)
                     {
-                        current = new BoaNextUrl(current).Value();
+                        current = new YaaNextUrl(current).Value();
                         result.Add(current);
                     }
                 }

@@ -33,6 +33,8 @@ namespace BoatPing.Core.Ad.BandOfBoats
             using (var page = new BobPage(startUrl, new ChromeHeadless()))
             {
                 IList<Uri> result = new List<Uri>();
+                var current = new Uri(url);
+                result.Add(current);
 
                 var pageNumbers = page.FindElements(By.ClassName("page-link"));
                 if (pageNumbers.Count > 0)
@@ -62,8 +64,7 @@ namespace BoatPing.Core.Ad.BandOfBoats
                             )
                         ).Value();
 
-                    var current = new Uri(url);
-                    result.Add(current);
+
                     for (var pageNumber = 2; pageNumber <= lastPage; pageNumber++)
                     {
                         current = new BobNextUrl(current).Value();

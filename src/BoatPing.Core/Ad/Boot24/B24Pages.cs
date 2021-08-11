@@ -34,6 +34,8 @@ namespace BoatPing.Core.Boot24
                 using (var page = new B24Page(startUrl, new ChromeHeadless()))
                 {
                     IList<Uri> result = new List<Uri>();
+                    var current = new Uri(url);
+                    result.Add(current);
 
                     var pageNumbers = page.FindElements(By.ClassName("seite"));
                     if (pageNumbers.Count > 0)
@@ -49,8 +51,7 @@ namespace BoatPing.Core.Boot24
                                 )
                             ).Value();
 
-                        var current = new Uri(url);
-                        result.Add(current);
+
                         for (var pageNumber = 2; pageNumber <= lastPage; pageNumber++)
                         {
                             current = new B24NextUrl(current).Value();

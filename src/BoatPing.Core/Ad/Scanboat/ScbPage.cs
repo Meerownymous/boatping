@@ -46,21 +46,20 @@ namespace BoatPing.Core.Ad.Scanboat
         /// </summary>
         public ScbPage(Func<string> url, IWebDriver origin) : base(() =>
         {
+            
             var page = new PgOpen(url(), origin, new TimeSpan(0, 0, 3));
 
-            //Close ad
-            if (page.FindElements(By.Id("modalPopupAdClose")).Count > 0)
+            try
             {
-                try
+                //Close ad
+                if (page.FindElements(By.Id("modalPopupAdClose")).Count > 0)
                 {
                     page.FindElement(By.Id("modalPopupAdClose")).Click();
                     System.Threading.Thread.Sleep(200);
                 }
-                catch (Exception ex)
-                {
-                    //Ignored with intention
-                }
             }
+            catch (Exception ex)
+            { }
             return page;
         })
         { }

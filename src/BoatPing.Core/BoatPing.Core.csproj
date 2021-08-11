@@ -25,15 +25,16 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.8.3" />
-    <PackageReference Include="HtmlAgilityPack" Version="1.11.29" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.36" />
     <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.664.37" />
     <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
-    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="89.0.4389.2300" />
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="92.0.4515.10700" />
     <PackageReference Include="Selenium.WebDriver.NetCoreWebDriverFactory" Version="3.0.0" />
     <PackageReference Include="BriX" Version="1.0.0" />
     <PackageReference Include="Xive" Version="5.0.0" />
     <PackageReference Include="Telegram.Bot" Version="15.7.1" />
     <PackageReference Include="Selenium.WebDriver.Extensions" Version="3.3.0" />
+    <PackageReference Include="Selenium.Firefox.WebDriver" Version="0.27.0" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="LogBook\" />
@@ -51,6 +52,8 @@
     <Folder Include="Ad\BandOfBoats\Test\" />
     <Folder Include="Cfg\" />
     <Folder Include="Cfg\Test\" />
+    <Folder Include="Ad\YachtAll\" />
+    <Folder Include="Ad\YachtAll\Test\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Boot24\Datum\B24Config.xml" />

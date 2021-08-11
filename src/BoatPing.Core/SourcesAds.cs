@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using BoatPing.Core.Ad.BandOfBoats;
 using BoatPing.Core.Ad.Boat24;
 using BoatPing.Core.Ad.Scanboat;
+using BoatPing.Core.Ad.YachtAll;
 using BoatPing.Core.Boot24;
 using Microsoft.VisualStudio.TestPlatform.TestHost;
 using Yaapii.Atoms;
@@ -28,7 +29,11 @@ namespace BoatPing.Core
                         source =>
                         {
                             IEnumerable<IAd> result = new ManyOf<IAd>();
-                            if(source.ToLower().Contains("bandofboats.com"))
+                            if (source.ToLower().Contains("yachtall.com"))
+                            {
+                                result = new YaaAds(source);
+                            }
+                            else if(source.ToLower().Contains("bandofboats.com"))
                             {
                                 result = new BobAds(source);
                             }

@@ -53,24 +53,23 @@ namespace BoatPing.Core.Page
             {
                 var retries = 5;
                 var success = false;
-                Exception ex = new Exception();
                 for (var tryCount = 0; tryCount < retries; tryCount++)
                 {
                     try
                     {
-                        page.Manage().Timeouts().PageLoad = new TimeSpan(0, 3, 0);
+                        page.Manage().Timeouts().PageLoad = new TimeSpan(0, 0, 10);
                         page.Navigate().GoToUrl(url());
                         success = true;
                         break;
                     }
-                    catch (Exception error)
+                    catch (Exception ex)
                     {
-                        ex = error;
+                        
                     }
                 }
                 if(!success)
                 {
-                    throw new ApplicationException($"cannot load page: {ex.ToString()} - {url().AbsoluteUri.ToString()}");
+                    throw new ApplicationException($"page_load_timeout:{url().AbsoluteUri.ToString()}");
                 }
 
                 return new PgStable(page, maxWait);
