@@ -17,7 +17,7 @@ namespace BoatPing.Core.Ad.Selenium
             var options = new ChromeOptions();
             options.AddArgument("--disable-gpu");
             options.AddArgument("--window-size=1024,768");
-            //options.AddArgument("--headless");
+            options.AddArgument("--headless");
             //options.AddArgument("--reuse=false");
             //options.DebuggerAddress = "localhost:9222";
             return new ChromeDriver(options);

@@ -19,7 +19,7 @@ namespace BoatPing.Core.Ad.BandOfBoats
             using (var page = new BobPage(searchPage.AbsoluteUri, new ChromeHeadless()))
             {
                 IList<IAd> result = new List<IAd>();
-                foreach (var adBox in page.FindElements(By.ClassName("bs-card")))
+                foreach (var adBox in page.FindElements(By.ClassName("boat-card")))
                 {
                     var ad = new BobAd(adBox);
                     ad.ID(); //trigger ad building while page is open
